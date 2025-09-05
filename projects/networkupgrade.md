@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/IDF.png
+image: img/IDF.jpg
 title: "Vacay"
 date: 2015
 published: true
