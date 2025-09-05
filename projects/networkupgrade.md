@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/networkupgrade/IDF1.jpeg
-title: "IDF Upgrade"
+title: "Network Upgrade"
 date: 2023
 published: true
 labels:
