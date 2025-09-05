@@ -48,3 +48,8 @@ a {
   background-color: var(--bs-white);
   border-top: none;
 }
+
+/* Center the page/project title */
+.page-content h1 {
+  text-align: center;
+}
