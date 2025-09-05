@@ -13,8 +13,6 @@ labels:
 summary: "Took point on a full network IDF switch and fiber upgrade for the Hawaii Convention Center."
 ---
 
-<h1 style="text-align: center;">IDF Upgrade</h1>
-
 <img width="300px" src="../img/networkupgrade/Core.jpeg" class="img-thumbnail" style="margin: 50px;">
 <img width="300px" src="../img/networkupgrade/IDF2.jpeg" class="img-thumbnail">
 <img width="300px" src="../img/networkupgrade/IDF.jpeg" class="img-thumbnail" style="margin: 50px;">
