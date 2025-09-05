@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
-title: "Cotton"
+image: img/homelab/HomeLab.jpeg
+title: "Home Lab"
 date: 2014
 published: true
 labels:
