@@ -20,7 +20,7 @@ summary: "Took point on a full network IDF switch and fiber upgrade for the Hawa
 ### Network Infrastructure Upgrade – Hawaii Convention Center
 
 I led a comprehensive upgrade of the Hawaii Convention Center’s network infrastructure to improve reliability, bandwidth, and long-term scalability.  
-The upgrade was driven by recurring issues during large events, most notably the **Pokémon Championship**, where the existing 1G fiber backbone could not handle the demand for high-speed, high-density connectivity. In addition, our older IDF switches lacked **Power over Ethernet (PoE)**, forcing us to run supplemental wireless access points with separate inline power injectors. This added complexity, increased failure points, and slowed down deployments during time-sensitive events.  
+The upgrade was driven by recurring issues during large events, most notably the **Pokémon World Championships**, where the existing 1G fiber backbone could not handle the demand for high-speed, high-density connectivity. In addition, our older IDF switches lacked **Power over Ethernet (PoE)**, forcing us to run supplemental wireless access points with separate inline power injectors. This added complexity, increased failure points, and slowed down deployments during time-sensitive events.  
 
 To address these challenges, I managed a full refresh of the distribution layer, modernizing the convention center’s network environment.  
 
