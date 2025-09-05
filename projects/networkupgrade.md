@@ -17,14 +17,16 @@ summary: "Took point on a full network IDF switch and fiber upgrade for the Hawa
 <img width="300px" src="../img/networkupgrade/IDF2.jpeg" class="img-thumbnail">
 <img width="300px" src="../img/networkupgrade/IDF.jpeg" class="img-thumbnail" style="margin: 50px;">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+Network Infrastructure Upgrade – Hawaii Convention Center
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+I led a comprehensive upgrade of the Hawaii Convention Center’s network infrastructure to improve reliability, bandwidth, and long-term scalability. This project involved replacing outdated hardware, reworking cabling for efficiency, and implementing higher-capacity fiber uplinks.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+Key Contributions
+	•	Switch Replacement (IDF Modernization): Deployed new enterprise-grade IDF switches across the facility, retiring legacy hardware and standardizing configurations for easier long-term management.
+	•	Cabling & Cross-Connectivity: Re-punched copper connections onto the 110 block to establish clean, fully cross-connected terminations, reducing patching errors and improving serviceability.
+	•	Fiber Backbone Upgrade: Converted uplinks from 1G to 10G fiber, dramatically increasing backbone throughput to support high-demand event traffic.
+	•	Decommissioning & Cleanup: Wiped and securely retired old switches, ensuring a clean transition and removing outdated equipment from the network environment.
 
-Here is some example code to illustrate Simple Schema use:
+Outcome & Impact
 
-{% gist 9defa1fb3f4eb593ba5fa9eacedca960 %}
- 
-Source: <a href="https://github.com/theVacay/vacay">theVacay/vacay</a>
+This upgrade provided the Hawaii Convention Center with a more reliable, higher-capacity network capable of supporting modern conventions and large-scale events. The improvements reduced potential bottlenecks, increased resiliency, and set a stronger foundation for future technology growth.
