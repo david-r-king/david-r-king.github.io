@@ -14,7 +14,6 @@ summary: "Took point on a full network IDF switch and fiber upgrade for the Hawa
 ---
 
 <img class="img-fluid" src="../img/networkupgrade/Core.jpeg">
-<img class="img-fluid" src="../img/networkupgrade/IDF2.jpeg">
 <img width="300px" src="../img/networkupgrade/IDF2.jpeg" class="img-thumbnail" >
 
 Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
