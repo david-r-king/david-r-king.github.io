@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/IDF.jpg
+image: img/networkupgrade/IDF1.jpeg
 title: "IDF Upgrade"
 date: 2023
 published: true
@@ -14,7 +14,7 @@ summary: "Took point on a full network IDF switch and fiber upgrade for the Hawa
 ---
 
 <img class="img-fluid" src="img/Core.jpeg">
-<img class="img-fluid" src="img/IDF1.jpeg">
+<img class="img-fluid" src="img/IDF2.jpeg">
 
 Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
 
