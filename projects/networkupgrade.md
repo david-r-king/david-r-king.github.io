@@ -2,15 +2,15 @@
 layout: project
 type: project
 image: img/IDF.jpg
-title: "Vacay"
-date: 2015
+title: "IDF Upgrade"
+date: 2023
 published: true
 labels:
   - Javascript
   - Meteor
   - MongoDB
   - GitHub
-summary: "A responsive web application for travel planning that my team developed in ICS 415."
+summary: "Took point on a full network IDF switch and fiber upgrade for the Hawaii Convention Center."
 ---
 
 <img class="img-fluid" src="img/IDF.jpg">
