@@ -19,9 +19,6 @@ summary: "Took point on a full network IDF switch and fiber uplink deployment fo
   <img src="../img/networkupgrade/pokemon1.jpeg" class="img-thumbnail" style="max-width: 250px; height: auto;">
 </div>
 
- 
-### Network Infrastructure Upgrade – Hawai'i Convention Center
-
 <h3 class="text-center">Network Infrastructure Upgrade – Hawai'i Convention Center</h3>
 
 I led a complete, facility-wide, upgrade of the Hawai'i Convention Center’s network infrastructure to improve reliability, bandwidth, and long-term scalability.  
