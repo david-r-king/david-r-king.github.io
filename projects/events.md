@@ -12,14 +12,14 @@ labels:
 summary: "Providing reliable, secure wired and wireless networks on the fly."
 ---
 
-<div style="display: flex; justify-content: center; gap: 200px; margin: 60px 0;">
-  <img src="../img/events/PAXWest2.jpeg" class="img-thumbnail" style="width: 350px; height: auto;">
-  <img src="../img/events/PAXWest1.jpeg" class="img-thumbnail" style="width: 350px; height: auto;">
+<div style="display: flex; justify-content: center; gap: 150px; margin: 40px 0;">
+  <img src="../img/events/PAXWest2.jpeg" class="img-thumbnail" style="width: 450px; height: auto;">
+  <img src="../img/events/PAXWest1.jpeg" class="img-thumbnail" style="width: 450px; height: auto;">
 </div>
 
 Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
 
-<div style="display: flex; justify-content: center; gap: 200px; margin: 60px 0;">
+<div style="display: flex; justify-content: center; gap: 150px; margin: 40px 0;">
   <img src="../img/events/PAXWest.jpeg" class="img-thumbnail" style="width: 450px; height: auto;">
   <img src="../img/events/mih.jpeg" class="img-thumbnail" style="width: 450px; height: auto;">
 </div>
