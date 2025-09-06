@@ -24,6 +24,11 @@ The upgrade was driven by recurring issues during large events, most notably the
 
 To address these challenges, I managed a full refresh of the distribution layer, modernizing the convention center’s network environment.  
 
+<img src="../img/networkupgrade/IDF1.jpeg" 
+     alt="IDF Rack" 
+     width="300" 
+     style="float: right; margin: 0 0 10px 20px;">
+
 #### Key Contributions
 - **Switch Replacement (IDF Modernization):** Deployed new enterprise-grade IDF switches across the facility, retiring legacy hardware, enabling PoE, and standardizing configurations for easier long-term management.  
 - **Cabling & Cross-Connectivity:** Re-punched copper connections onto the 110 block to establish clean, fully cross-connected terminations, reducing patching errors and improving serviceability.  
