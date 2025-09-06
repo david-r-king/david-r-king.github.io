@@ -15,7 +15,7 @@ summary: "Providing reliable, secure wired and wireless networks on the fly."
 <div style="display: flex; justify-content: center; gap: 150px; margin: 40px 0;">
   <img src="../img/events/PAXWest2.jpeg" class="img-thumbnail" style="width: 450px; height: auto;">
   <img src="../img/events/PAXWest1.jpeg" class="img-thumbnail" style="width: 450px; height: auto;">
-  <img src="../img/events/mih.jpeg" class="img-thumbnail" style="width: 450px; height: auto;">
+  <img src="../img/events/PAXWest.jpeg" class="img-thumbnail" style="width: 450px; height: auto;">
 </div>
 
 ### Event-Based Networks – Large-Scale Conventions and Live Events
@@ -24,7 +24,7 @@ I managed event-based networking deployments for high-profile conventions and es
 
 The most common challenges included **last-minute changes** to event layouts, exhibitor requirements, and production setups, all of which required agile responses to keep services running without disruption. To handle this, I designed and deployed temporary infrastructure capable of supporting thousands of simultaneous users, with the ability to scale or reconfigure on demand.
 
-<img src="../img/events/PAXWest.jpeg"  
+<img src="../img/events/mih.jpeg"  
      alt="Event Networking Deployment"  
      width="300"  
      style="float: right; margin: 0 0 10px 20px;">
