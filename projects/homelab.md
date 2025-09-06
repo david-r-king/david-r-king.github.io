@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/homelab/kali.jpeg
 title: "Home Lab"
-date: 2014
+date: 2014 
 published: true
 labels:
   - Lisp
