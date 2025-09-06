@@ -6,8 +6,8 @@
     "email": "dking3@hawaii.edu",
     "phone": "903-830-5847",
     "website": "https://david-r-king.github.io",
-    "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2027.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "summary": "In pursuit of my B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. Expected graduation date: Spring, 2027.",
+    "location": { "address": "", "postalCode": "96744", "city": "Kanoehe", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "david-r-king", "url": "http://github.com/david-r-king" },
       { "network": "linkedin", "username": "davidrking31", "url": "https://www.linkedin.com/in/davidrking31/" }
