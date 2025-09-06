@@ -13,7 +13,8 @@ labels:
 summary: "Took point on a full network IDF switch and fiber uplink deployment for the Hawai'i Convention Center."
 ---
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 50px; margin: 20px 0;">
+<div class="stack-on-mobile"
+     style="display: flex; justify-content: center; align-items: center; gap: 50px; margin: 20px 0;">
   <img src="../img/networkupgrade/pokemon2.jpeg" class="img-thumbnail" style="max-width: 250px; height: auto;">
   <img src="../img/networkupgrade/pokemon.jpeg" class="img-thumbnail" style="max-width: 500px; height: auto;">
   <img src="../img/networkupgrade/pokemon1.jpeg" class="img-thumbnail" style="max-width: 250px; height: auto;">
