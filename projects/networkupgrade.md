@@ -14,7 +14,7 @@ summary: "Took point on a full network IDF switch and fiber upgrade for the Hawa
 ---
 
 <img width="300px" src="../img/networkupgrade/IDF2.jpeg" class="img-thumbnail" style="margin: 50px;">
-<img width="500px" src="../img/networkupgrade/miscevent.jpeg" class="img-thumbnail">
+<img width="400px" src="../img/networkupgrade/miscevent.jpeg" class="img-thumbnail">
 <img width="300px" src="../img/networkupgrade/IDF1.jpeg" class="img-thumbnail" style="margin: 50px;">
 
 ### Network Infrastructure Upgrade – Hawaii Convention Center
