@@ -18,7 +18,7 @@ summary: "Providing reliable, secure wired and wireless networks on the fly."
   <img src="../img/events/PAXWest.jpeg" class="img-thumbnail" style="width: 400px; height: auto;">
 </div>
 
-### Event-Based Networks – Large-Scale Conventions and Live Events
+<h3 class="text-center">Event-Based Networks – Large-Scale Conventions and Live Events</h3>
 
 Managing event-based networks presents a unique set of challenges. Strict time constraints, evolving client requirements, and last-minute network requests are often encountered under the pressure of a **high-profile convention**. Unlike permanent enterprise networks, designing and deploying a full wired and/or wireless network to be used for only a few days requires a level of flexibility I never anticipated. With over two years of experience in this industry, I can confidently say that the reward of delivering a safe, reliable network for both event staff and attendees far outweighs the stress and effort it takes during planning and deployment.
 
