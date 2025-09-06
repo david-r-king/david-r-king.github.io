@@ -19,7 +19,7 @@ A key focus of my lab work involved using **Kali Linux** to perform penetration 
 
 <img src="../img/homelab/HomeLab.jpeg"  
      alt="Home Lab Setup"  
-     width="300"  
+     width="450"  
      style="float: right; margin: 0 0 10px 20px;">
 
 #### Key Activities
