@@ -3,10 +3,13 @@ layout: project
 type: project
 image: img/events/teamphoto1.jpeg
 title: "Event-Based Networks"
-date: 2015
+date: 2023-present
 published: true
 labels:
   - Networking
+  - WLC
+  - Hardware
+  - VLANs
   - Event-Based
   - Cisco
 summary: "Providing reliable, secure wired and wireless networks on the fly."
