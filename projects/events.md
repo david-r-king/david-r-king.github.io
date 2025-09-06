@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/events/TeamPhoto.jpeg
+image: img/events/teamphoto.jpeg
 title: "Event-Based Networks"
 date: 2015
 published: true
