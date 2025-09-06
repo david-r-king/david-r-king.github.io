@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/homelab/kali.png
 title: "Home Lab"
-date: 2014 
+date: 2025 
 published: true
 labels:
   - Information Security
