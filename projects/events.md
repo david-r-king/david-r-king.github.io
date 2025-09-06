@@ -27,7 +27,7 @@ The most common challenges would have to be last-minute changes or adjustments t
 
 <img src="../img/events/mih.jpeg"  
      alt="Event Networking Deployment"  
-     width="375"  
+     width="365"  
      style="float: right; margin: 0 0 10px 20px;">
 
 #### Key's to Success
