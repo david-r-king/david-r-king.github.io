@@ -11,52 +11,27 @@ labels:
 summary: "A text adventure game that I developed for ICS 313."
 ---
 
+### Home Lab – Security Testing and Network Experimentation
+
+I built a personal home lab to practice system administration, networking, and penetration testing in a controlled environment. The setup consists of multiple virtual and physical machines, including **Ubuntu Desktop** and **Kali Linux**, connected through a managed switch and monitored with various tools. This environment allowed me to simulate real-world scenarios while safely experimenting with offensive and defensive security techniques.
+
+A key focus of my lab work involved using **Kali Linux** to perform penetration testing against my Ubuntu Desktop machine. This included configuring network interfaces, testing open ports and services, and exploring ways to identify vulnerabilities through ethical hacking methodologies. By doing so, I was able to gain hands-on experience with both **attack tools** and **system hardening practices**, reinforcing how attackers and defenders operate in practice.
+
 <img src="../img/homelab/HomeLab.jpeg"  
      alt="Home Lab Setup"  
      width="300"  
      style="float: right; margin: 0 0 10px 20px;">
 
-Cotton is a horror-style text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+#### Key Activities
+- **Penetration Testing Practice:** Used Kali Linux to scan and probe my Ubuntu Desktop machine, testing for exposed services, weak configurations, and potential attack vectors.  
+- **Service Hardening:** After identifying weak points, implemented stronger firewall rules, updated packages, and reconfigured permissions on the Ubuntu system.  
+- **Network Segmentation:** Connected devices through a managed switch to separate testing traffic and simulate isolated network environments.  
+- **Monitoring & Logging:** Observed system logs during testing to understand attack signatures and the importance of logging in detection and response.  
 
-To give you a flavor of the game, here is an excerpt from one run:
+#### Outcome & Learning
+The home lab provided a **hands-on environment** to bridge the gap between theory and real-world security.  
 
-<hr>
-
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
-
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+- Learned to configure and secure Linux systems under active probing.  
+- Practiced common penetration testing workflows with Kali tools like Nmap and Netcat.  
+- Understood the importance of proactive patching and firewall configurations.  
+- Developed a repeatable environment for ongoing experimentation in networking and cybersecurity.  
