@@ -13,18 +13,10 @@ labels:
 summary: "Took point on a full network IDF switch and fiber upgrade for the Hawaii Convention Center."
 ---
 
-<div style="text-align: center; margin: 20px 0; width: 250px;">
-  <img src="../img/networkupgrade/pokemon2.jpeg" class="img-thumbnail">
-</div>
-
-<div style="text-align: center; margin: 20px 0; width: 250px;">
-  <img src="../img/networkupgrade/pokemon.jpeg" class="img-thumbnail">
-</div>
-
-<div style="text-align: center; margin: 20px 0; width: 250px;">
-  <img src="../img/networkupgrade/pokemon1.jpeg" class="img-thumbnail">
-</div>
-
+<img src="../img/networkupgrade/pokemon.jpeg" class="img-thumbnail">
+<img src="../img/networkupgrade/pokemon1.jpeg" class="img-thumbnail">
+<img src="../img/networkupgrade/pokemon2.jpeg" class="img-thumbnail">
+ 
 ### Network Infrastructure Upgrade – Hawaii Convention Center
 
 I led a comprehensive upgrade of the Hawaii Convention Center’s network infrastructure to improve reliability, bandwidth, and long-term scalability.  
