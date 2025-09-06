@@ -52,9 +52,20 @@ a {
 /* Make project images stack vertically on small screens */
 @media (max-width: 768px) {
   .img-thumbnail {
-    display: block;         /* puts each image on its own line */
-    margin: 10px auto;      /* centers the images with some spacing */
-    max-width: 50%;         /* makes them smaller so they fit nicely */
-    height: auto;           /* keeps proportions correct */
+    display: block;       /* puts each image on its own line */
+    margin: 10px auto;    /* centers the images with some spacing */
+    max-width: 50%;       /* makes them smaller so they fit nicely */
+    height: auto;         /* keeps proportions correct */
+  }
+
+  .stack-on-mobile {
+    display: block !important;   /* overrides inline display:flex */
+  }
+  .stack-on-mobile img {
+    display: block;
+    margin: 10px auto;
+    width: 100%;                 /* scale to fit screen */
+    max-width: 420px;            /* adjust size for mobile */
+    height: auto;
   }
 }
