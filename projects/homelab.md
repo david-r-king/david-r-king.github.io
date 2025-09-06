@@ -11,7 +11,7 @@ labels:
   - Hydra
   - Raspberry Pi
   - Pentesting
-summary: "A text adventure game that I developed for ICS 313."
+summary: "Secure, isolated home lab environment for information security and pentesting hands-on experience."
 ---
 
 <h3 class="text-center">Home Lab – Security Testing and Network Experimentation</h3>
