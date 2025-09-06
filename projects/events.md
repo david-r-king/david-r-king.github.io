@@ -30,7 +30,7 @@ The most common challenges would have to be last-minute changes to event layouts
      style="float: right; margin: 0 0 10px 20px;">
 
 #### Key Contributions
-- **Rapid Adaptation to Layout Changes:** Respond to last-minute adjustments in floor plans and booth placements by rerouting cabling, deploying dummy switches and extending wired/wireless connectivity.  
+- **Rapid Adaptation to Layout Changes:** Respond to last-minute adjustments in floor plans and booth placements by rerouting cabling, deploying dummy switches and extending wired/wireless connectivity. 
 - **Wired & Wireless Interconnectivity:** Integrated wired drops for production and exhibitor reliability with high-performance wireless coverage for staff, attendees, and guests — ensuring seamless connectivity across both infrastructures.  
 - **High-Density Wireless Support:** Deployed and tuned supplemental APs in keynote halls, gaming arenas, and expo floors to support thousands of simultaneous client devices without degradation in speed or reliability.  
 - **Client & Vendor Coordination:** Worked closely with event organizers, corporate clients, and production teams to define requirements, communicate capabilities, and implement contingency plans for bandwidth surges and environmental interference.  
