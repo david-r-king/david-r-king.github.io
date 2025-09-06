@@ -22,8 +22,8 @@ summary: "Took point on a full network IDF switch and fiber uplink deployment fo
  
 ### Network Infrastructure Upgrade – Hawai'i Convention Center
 
-I led a comprehensive upgrade of the Hawai'i Convention Center’s network infrastructure to improve reliability, bandwidth, and long-term scalability.  
-The upgrade was driven by recurring issues during large events, most notably the **Pokémon World Championships**, where the existing 1G fiber uplink was short of the events requirements. Due to the global visibility and high-profile nature of the event, we executed a full network upgrade to meet the clients demanding performance requirements. Aside from the bandwitch boost to the building, we also obtained **Power over Ethernet (PoE)** throughout our IDFs, which improved deployment speed and accuracy of supplemental access points for future events. Running inline power for each supplemental in high-density areas created an additional point of failure and added valuable time to the process, which can be critical in an event based networking environment.
+I led a complete, facility-wide, upgrade of the Hawai'i Convention Center’s network infrastructure to improve reliability, bandwidth, and long-term scalability.  
+The upgrade was driven by recurring issues during large events, most notably the **Pokémon World Championships**, where the existing 1G fiber uplink fell short of the events requirements. Due to the global visibility and high-profile nature of the event, the company approved a full network upgrade to meet the clients demanding performance requirements. Aside from the bandwitch boost to the building, we also obtained **Power over Ethernet (PoE)** throughout our IDFs, which improved deployment speed and accuracy of supplemental access points for future events. Running inline power for each supplemental in high-density areas created an additional point of failure and added valuable time to the process, which can be critical in an event based networking environment.
 
 To overcome these challenges, I coordinated the deployment, installation and documentation for the distribution layer for the facility.
 
