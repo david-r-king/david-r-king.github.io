@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/events/PAXWest1.jpeg
+image: img/events/TeamPhoto.jpeg
 title: "Event-Based Networks"
 date: 2015
 published: true
@@ -13,7 +13,7 @@ summary: "Providing reliable, secure wired and wireless networks on the fly."
 ---
 
 <div class="text-center p-4">
-  <img width="500px" src="../img/events/TeamPhoto.jpeg" class="img-thumbnail" style="margin: 10px;" >
+  <img width="500px" src="../img/events/PAXWest1.jpeg" class="img-thumbnail" style="margin: 10px;" >
   <img width="400px" src="../img/events/PAXWest2.jpeg" class="img-thumbnail" style="margin: 10px;">
   <img width="400px" src="../img/events/PAXWest.jpeg" class="img-thumbnail" style="margin: 10px;">
   <img width="500px" src="../img/events/mih.jpeg" class="img-thumbnail" style="margin: 10px;">
