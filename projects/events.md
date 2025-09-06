@@ -15,7 +15,7 @@ summary: "Providing reliable, secure wired and wireless networks on the fly."
 <div class="text-center p-4">
   <img width="450px" src="../img/events/PAXWest1.jpeg" class="img-thumbnail" style="margin: 10px;" >
   <img width="500px" src="../img/events/PAXWest2.jpeg" class="img-thumbnail" style="margin: 10px;">
-  <img width="400px" src="../img/events/PAXWest.jpeg" class="img-thumbnail" style="margin: 10px;">
+  <img width="425px" src="../img/events/PAXWest.jpeg" class="img-thumbnail" style="margin: 10px;">
   <img width="500px" src="../img/events/mih.jpeg" class="img-thumbnail" style="margin: 10px;">
 </div>
 
