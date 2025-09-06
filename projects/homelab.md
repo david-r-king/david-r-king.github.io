@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/homelab/kali.jpeg
+image: img/homelab/kali.png
 title: "Home Lab"
 date: 2014 
 published: true
