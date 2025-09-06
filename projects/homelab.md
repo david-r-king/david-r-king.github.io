@@ -11,7 +11,7 @@ labels:
 summary: "A text adventure game that I developed for ICS 313."
 ---
 
-### Home Lab – Security Testing and Network Experimentation
+<h3 class="text-center">Home Lab – Security Testing and Network Experimentation</h3>
 
 I built a personal home lab to practice system administration, networking, and penetration testing in a controlled environment. The setup consists of multiple virtual and physical machines, including **Ubuntu Desktop** and **Kali Linux**, connected through a managed switch and monitored with various tools. This environment allowed me to simulate real-world scenarios while safely experimenting with offensive and defensive security techniques.
 
