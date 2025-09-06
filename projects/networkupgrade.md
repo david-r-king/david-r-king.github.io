@@ -26,7 +26,7 @@ I led a complete, facility-wide, upgrade of the Hawai'i Convention Center’s ne
 
 The upgrade was driven by recurring issues during large events, most notably the **Pokémon World Championships**, where the existing 1G fiber uplink fell short of the events requirements. Due to the global visibility and high-profile nature of the event, the company approved a full network upgrade to meet the clients demanding performance requirements. Aside from the bandwitch boost to the building, we also obtained **Power over Ethernet (PoE)** throughout our IDFs, which improved deployment speed and accuracy of supplemental access points for future events. Running inline power for each supplemental in high-density areas created an additional point of failure and added valuable time to the process, which can be critical in an event based networking environment.
 
-To overcome these challenges, I coordinated the deployment, installation and documentation for the distribution layer for the facility.
+To overcome these challenges, I coordinated the deployment, installation and documentation of the distribution layer for the entire facility.
 
 <img src="../img/networkupgrade/IDF1.jpeg" 
      alt="IDF Rack" 
