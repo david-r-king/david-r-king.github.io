@@ -26,7 +26,7 @@ The most common challenges included **last-minute changes** to event layouts, ex
 
 <img src="../img/events/mih.jpeg"  
      alt="Event Networking Deployment"  
-     width="300"  
+     width="450"  
      style="float: right; margin: 0 0 10px 20px;">
 
 #### Key Contributions
