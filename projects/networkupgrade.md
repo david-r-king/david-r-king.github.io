@@ -10,7 +10,7 @@ labels:
   - Meteor
   - MongoDB
   - GitHub
-summary: "Took point on a full network IDF switch and fiber upgrade for the Hawaii Convention Center."
+summary: "Took point on a full network IDF switch and fiber uplink deployment for the Hawai'i Convention Center."
 ---
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin: 20px 0;">
