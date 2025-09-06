@@ -12,7 +12,8 @@ labels:
 summary: "Providing reliable, secure wired and wireless networks on the fly."
 ---
 
-<div style="display: flex; justify-content: center; gap: 50px; margin: 40px 0;">
+<div class="stack-on-mobile"
+     style="display: flex; justify-content: center; align-items: center; gap: 50px; margin: 40px 0;">
   <img src="../img/events/PAXWest2.jpeg" class="img-thumbnail" style="width: 400px; height: auto;">
   <img src="../img/events/PAXWest1.jpeg" class="img-thumbnail" style="width: 400px; height: auto;">
   <img src="../img/events/PAXWest.jpeg" class="img-thumbnail" style="width: 400px; height: auto;">
