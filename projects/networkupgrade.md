@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/networkupgrade/IDF1.jpeg
+image: img/networkupgrade/conventioncenterlogo.jpeg
 title: "Network Upgrade"
 date: 2023
 published: true
@@ -13,9 +13,9 @@ labels:
 summary: "Took point on a full network IDF switch and fiber upgrade for the Hawaii Convention Center."
 ---
 
-<img width="300px" src="../img/networkupgrade/Core.jpeg" class="img-thumbnail" style="margin: 50px;">
+<img width="300px" src="../img/networkupgrade/miscevent.jpeg" class="img-thumbnail" style="margin: 50px;">
 <img width="300px" src="../img/networkupgrade/IDF2.jpeg" class="img-thumbnail">
-<img width="300px" src="../img/networkupgrade/IDF.jpeg" class="img-thumbnail" style="margin: 50px;">
+<img width="300px" src="../img/networkupgrade/IDF1.jpeg" class="img-thumbnail" style="margin: 50px;">
 
 ### Network Infrastructure Upgrade – Hawaii Convention Center
 
