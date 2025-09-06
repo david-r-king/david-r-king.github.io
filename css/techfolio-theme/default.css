@@ -65,7 +65,7 @@ a {
     display: block;
     margin: 10px auto;
     width: 100%;                 /* scale to fit screen */
-    max-width: 420px;            /* adjust size for mobile */
+    max-width: 350px;            /* adjust size for mobile */
     height: auto;
   }
 }
