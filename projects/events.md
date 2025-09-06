@@ -15,29 +15,30 @@ summary: "Providing reliable, secure wired and wireless networks on the fly."
 <div style="display: flex; justify-content: center; gap: 150px; margin: 40px 0;">
   <img src="../img/events/PAXWest2.jpeg" class="img-thumbnail" style="width: 450px; height: auto;">
   <img src="../img/events/PAXWest1.jpeg" class="img-thumbnail" style="width: 450px; height: auto;">
-</div>
-
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
-
-<div style="display: flex; justify-content: center; gap: 150px; margin: 40px 0;">
-  <img src="../img/events/PAXWest.jpeg" class="img-thumbnail" style="width: 450px; height: auto;">
   <img src="../img/events/mih.jpeg" class="img-thumbnail" style="width: 450px; height: auto;">
 </div>
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+### Event-Based Networks – Large-Scale Conventions and Live Events
 
-Here is some code that illustrates how we read values from the line sensors:
+I managed event-based networking deployments for high-profile conventions and esports tournaments, where connectivity requirements shift rapidly and demand is concentrated in short timeframes. Unlike permanent enterprise networks, these environments require fast design, flexible deployment, and real-time adjustments to ensure both wired and wireless systems perform under heavy loads.
 
-```cpp
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
+The most common challenges included **last-minute changes** to event layouts, exhibitor requirements, and production setups, all of which required agile responses to keep services running without disruption. To handle this, I designed and deployed temporary infrastructure capable of supporting thousands of simultaneous users, with the ability to scale or reconfigure on demand.
 
-You can learn more at the [UH Micromouse News Announcement](https://manoa.hawaii.edu/news/article.php?aId=2857).
+<img src="../img/events/PAXWest.jpeg"  
+     alt="Event Networking Deployment"  
+     width="300"  
+     style="float: right; margin: 0 0 10px 20px;">
+
+#### Key Contributions
+- **Rapid Adaptation to Layout Changes:** Responded to last-minute adjustments in floor plans and booth placements by rerouting cabling, reallocating switch ports, and extending fiber/wired runs on the fly.  
+- **Wired & Wireless Interconnectivity:** Integrated wired drops for production and exhibitor reliability with high-performance wireless coverage for staff, attendees, and guests — ensuring seamless connectivity across both infrastructures.  
+- **High-Density Wireless Support:** Deployed and tuned supplemental APs in keynote halls, gaming arenas, and expo floors to support thousands of simultaneous client devices without degradation in speed or reliability.  
+- **Client & Vendor Coordination:** Worked closely with event organizers, corporate clients, and production teams to define requirements, communicate capabilities, and implement contingency plans for bandwidth surges and environmental interference.  
+
+#### Outcome & Impact
+The deployments resulted in **resilient, scalable networks** capable of delivering professional-grade connectivity in dynamic and unpredictable environments:
+
+- Exhibitors and production teams received reliable wired services, even during unplanned expansions.  
+- Attendees experienced stable wireless performance in high-density venues.  
+- Standardized deployment processes reduced troubleshooting overhead and accelerated setup times.  
+- Clients gained confidence in the ability to deliver **enterprise-class connectivity under tight deadlines**.  
