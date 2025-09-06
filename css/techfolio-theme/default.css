@@ -49,3 +49,12 @@ a {
   border-top: none;
 }
 
+/* Make project images stack vertically on small screens */
+@media (max-width: 768px) {
+  .img-thumbnail {
+    display: block;         /* puts each image on its own line */
+    margin: 10px auto;      /* centers the images with some spacing */
+    max-width: 90%;         /* makes them smaller so they fit nicely */
+    height: auto;           /* keeps proportions correct */
+  }
+}
