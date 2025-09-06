@@ -54,7 +54,7 @@ a {
   .img-thumbnail {
     display: block;         /* puts each image on its own line */
     margin: 10px auto;      /* centers the images with some spacing */
-    max-width: 90%;         /* makes them smaller so they fit nicely */
+    max-width: 50%;         /* makes them smaller so they fit nicely */
     height: auto;           /* keeps proportions correct */
   }
 }
