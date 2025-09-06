@@ -35,8 +35,8 @@ The most common challenges would have to be last-minute changes or adjustments t
 - **Expectations and User Density:** Always prepare for higher-than-expected attendance. While clients often provide estimates based on historical data, planning for a larger headcount builds in flexibility and ensures the network can handle unexpected surges.
 - **Documentation:** Just because a setup works during installation doesn’t mean it will work later. Maintaining accurate documentation of IP addresses, switch ports, and device locations makes troubleshooting and last-minute changes significantly more manageable.
 
-#### Outcome & Impact
-Following these keys to success will prevent silly mistakes, provide some breathing room, and give you an upper hand to provide **resilient, scalable networks** on the fly.
+#### Practical Outcomes
+Following these guidelines will (hopefully) prevent silly mistakes, provide some breathing room for you and your team, and give you an upper hand on providing **resilient, scalable networks** on the fly.
 - Reduce last-minute stress by planning early and properly documenting the full deployment.
 - Provide a high-density and reliable network that should reduce the amount of troubleshooting needed.
 - Ensure you and your team are always on the same page, relaying any new or adjusted information.
