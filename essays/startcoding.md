@@ -22,28 +22,54 @@ labels:
   <h2>From Python to TypeScript: A Side Journey Through Programming</h2>
 </div>
 
+First Impressions
 
-I first started experimenting with programming in 2021 by playing around with Python. At the time, I wasn’t aiming to become a developer—I was just curious about what coding could do. I remember being fascinated by simple for loops and if statements, and I even put together a basic “choose your own adventure” text game. It wasn’t polished, but it showed me how a few lines of logic could create something interactive. For me, it was more of a fun project than a serious pursuit.
+My first experience with programming came in 2021 when I began experimenting with Python. At the time, I wasn’t aiming to become a software developer — I was simply curious about what code could do. Python immediately felt approachable: I could build a basic “choose your own adventure” text game using only loops, conditionals, and simple functions. The language’s readability and flexibility encouraged exploration, and I quickly realized how a few lines of code could create something meaningful.
 
-As my interests grew, I found myself drawn more toward information security, networking, and system administration rather than pure software development. This created an interesting challenge: my coursework and degree path required me to learn programming in depth, but my career goals were headed in a different direction. Studying Java, C, C++, JavaScript, and eventually TypeScript forced me to think like a developer even though I was imagining myself more in a networking or infosec role. At times, it felt like I was learning a skillset parallel to—but not directly aligned with—what I thought I needed.
+Later, I encountered TypeScript while exploring web development. My first impression was that it felt familiar to JavaScript but far more disciplined. TypeScript’s compiler immediately pointed out mistakes that Python would have allowed me to run into at runtime. What felt like a safety net for beginners in Python became a training ground for professional development with TypeScript.
 
-Despite that challenge, the journey has been rewarding. With Java, I learned how to structure programs into objects and methods, which taught me discipline in organizing larger projects. With C and C++, I confronted low-level details like memory and pointers, which gave me insight into how software interacts with hardware. JavaScript then introduced me to web programming, though I quickly realized how difficult debugging could be in a loosely typed environment.
+⸻
 
-This is where TypeScript stood out. TypeScript gave me the same flexibility of JavaScript while adding type safety and structure. The compiler acted like an extra set of eyes, catching mistakes before my code even ran. I found that coding in TypeScript felt cleaner, more predictable, and ultimately more enjoyable. It was the first time I saw how programming discipline could translate directly into reliability, a concept that overlaps heavily with both networking and infosec.
+How It Compares
 
-Looking back, my coding abilities have grown tremendously since my first Python experiments. What once felt like trial-and-error with loops and conditions has turned into the ability to work confidently in multiple languages, design structured programs, and understand the trade-offs between efficiency, readability, and maintainability.
+Python and TypeScript target different goals, and learning both highlighted their contrasts:
+	•	Typing:
+	•	Python: Dynamically typed — fast to write but easy to make silent mistakes.
+	•	TypeScript: Statically typed — requires more upfront effort but prevents hidden bugs.
+	•	Tooling:
+	•	Python: Simple interpreter; flexible but less strict.
+	•	TypeScript: Strong IDE support with autocompletion, error checking, and refactoring tools.
+	•	Scalability:
+	•	Python: Best for quick scripts, automation, and prototyping.
+	•	TypeScript: Designed for larger projects where structure and maintainability matter.
+	•	Learning Curve:
+	•	Python made it easy to get started, while TypeScript made me think like an engineer.
 
-Although I still see myself pursuing a future in networking or information security, I view programming as an asset rather than a detour. Understanding software development makes me a stronger candidate in fields where automation, scripting, and system analysis are increasingly valuable. Whether it’s writing a script to scan logs, building tools for penetration testing, or automating network tasks, the programming background I’ve gained will only enhance what I can do.
+Together, they gave me a broader perspective: Python taught me logic and creativity, while TypeScript taught me discipline and structure.
 
-Key Takeaways
-	•	Python (2021): Sparked my interest with simple loops and conditions, leading to fun experiments like a text adventure game.
-	•	Java, C, C++: Forced me to dive deeper into structured programming and system-level thinking.
-	•	JavaScript → TypeScript: Showed me the importance of typing, structure, and scalability in modern applications.
-	•	Career Connection: Even though my focus is on networking and infosec, programming skills will be a valuable tool in automating tasks and solving real-world problems.
+⸻
 
-Looking Ahead
+Applied to Software Engineering
 
-While I don’t expect to become a full-time developer, I see programming as part of my toolkit. My plan is to continue refining these skills while moving forward in networking and information security. What started as a curiosity in Python has become a foundation I can carry with me throughout my career.
+Studying software engineering emphasizes maintainability, scalability, and reliability — qualities TypeScript enforces by design. In comparison:
+	•	Python sparked my interest in solving problems quickly but didn’t always prepare me for larger systems.
+	•	TypeScript introduced principles that align with engineering practices:
+	•	Code reviews and debugging become easier when types act as documentation.
+	•	Team projects benefit from consistency enforced by the compiler.
+	•	Automation scripts can be transformed into robust, production-ready tools.
+
+This combination has real value in my focus on networking and information security. For example, while Python remains my go-to for quick automation (like scanning with Nmap), TypeScript pushes me to build tools with more reliability and scalability. In many ways, learning TypeScript has been like moving from hobbyist coding to professional software engineering.
+
+⸻
+
+Final Thoughts
+
+My programming path reflects a shift from exploration to engineering. Python made programming accessible and exciting; TypeScript made it structured and sustainable. Learning both has expanded my ability to:
+	•	Solve problems with efficiency and creativity.
+	•	Write code that is both functional and maintainable.
+	•	Adapt across languages and paradigms — a skill critical in today’s interdisciplinary tech fields.
+
+For me, Python represents the first step into problem-solving, while TypeScript represents the commitment to engineering excellence. Together, they form a toolkit I’ll continue to use in both networking/security and software development as I grow professionally.
 
 
 
