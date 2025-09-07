@@ -11,44 +11,29 @@ labels:
 
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+<div class="text-center">
+  <h2>From Python to TypeScript: A Side Journey Through Programming</h2>
+</div>
 
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
+I first started experimenting with programming in 2021 by playing around with Python. At the time, I wasn’t aiming to become a developer—I was just curious about what coding could do. I remember being fascinated by simple for loops and if statements, and I even put together a basic “choose your own adventure” text game. It wasn’t polished, but it showed me how a few lines of logic could create something interactive. For me, it was more of a fun project than a serious pursuit.
 
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
+As my interests grew, I found myself drawn more toward information security, networking, and system administration rather than pure software development. This created an interesting challenge: my coursework and degree path required me to learn programming in depth, but my career goals were headed in a different direction. Studying Java, C, C++, JavaScript, and eventually TypeScript forced me to think like a developer even though I was imagining myself more in a networking or infosec role. At times, it felt like I was learning a skillset parallel to—but not directly aligned with—what I thought I needed.
 
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
+Despite that challenge, the journey has been rewarding. With Java, I learned how to structure programs into objects and methods, which taught me discipline in organizing larger projects. With C and C++, I confronted low-level details like memory and pointers, which gave me insight into how software interacts with hardware. JavaScript then introduced me to web programming, though I quickly realized how difficult debugging could be in a loosely typed environment.
 
-Here's what I think: the difficult things will always be difficult.
+This is where TypeScript stood out. TypeScript gave me the same flexibility of JavaScript while adding type safety and structure. The compiler acted like an extra set of eyes, catching mistakes before my code even ran. I found that coding in TypeScript felt cleaner, more predictable, and ultimately more enjoyable. It was the first time I saw how programming discipline could translate directly into reliability, a concept that overlaps heavily with both networking and infosec.
 
-## In the context of programming
+Looking back, my coding abilities have grown tremendously since my first Python experiments. What once felt like trial-and-error with loops and conditions has turned into the ability to work confidently in multiple languages, design structured programs, and understand the trade-offs between efficiency, readability, and maintainability.
 
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
+Although I still see myself pursuing a future in networking or information security, I view programming as an asset rather than a detour. Understanding software development makes me a stronger candidate in fields where automation, scripting, and system analysis are increasingly valuable. Whether it’s writing a script to scan logs, building tools for penetration testing, or automating network tasks, the programming background I’ve gained will only enhance what I can do.
 
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
+Key Takeaways
+	•	Python (2021): Sparked my interest with simple loops and conditions, leading to fun experiments like a text adventure game.
+	•	Java, C, C++: Forced me to dive deeper into structured programming and system-level thinking.
+	•	JavaScript → TypeScript: Showed me the importance of typing, structure, and scalability in modern applications.
+	•	Career Connection: Even though my focus is on networking and infosec, programming skills will be a valuable tool in automating tasks and solving real-world problems.
 
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
+Looking Ahead
 
-## In the context of engineering
+While I don’t expect to become a full-time developer, I see programming as part of my toolkit. My plan is to continue refining these skills while moving forward in networking and information security. What started as a curiosity in Python has become a foundation I can carry with me throughout my career.
 
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
-
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
-
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
-
-## In the context of relationships
-
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
-
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
-
-Relationships have always been difficult, and by nature will continue to be so.
-
-## Okay!
-
-So back to the original premise; why is being one of the club officers so difficult?
-
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
