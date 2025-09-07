@@ -24,6 +24,11 @@ summary: "Providing reliable, secure wired and wireless networks on the fly."
 
 Managing event-based networks presents a unique set of challenges. Strict time constraints, evolving client requirements, and last-minute network requests are often encountered under the pressure of a **high-profile convention**. Unlike permanent enterprise networks, designing and deploying a full wired and/or wireless network to be used for only a few days requires a level of flexibility I never anticipated. With over two years of experience in this industry, I can confidently say that the reward of delivering a safe, reliable network for both event staff and attendees far outweighs the stress and effort it takes during planning and deployment.
 
+<img src="../img/events/PAXWest.jpeg"  
+     alt="Event Networking Deployment"  
+     width="365"  
+     style="float: right; margin: 0 0 10px 20px;">
+
 The most common challenges would have to be last-minute changes or adjustments to event layouts, exhibitor requests and network functionality. Staying ahead of the project is crucial, as the time constraint is always a factor, and getting as much information as soon as possible helps a immensely with planning and deployment. Another, very critical element, of a successful event comes down to the **team and communication.** Thankfully, I have always had a fantastic team beside me that allows me to perform in the most efficient and effective way possible. With multiple moving parts spread across several  departments, miscommunication or information delays can be detrimental to success.
 
 <img src="../img/events/mih.jpeg"  
