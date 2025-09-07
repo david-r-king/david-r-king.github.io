@@ -6,11 +6,12 @@ title: "Network Upgrade"
 date: 2023
 published: true
 labels:
-  - Networking
+  - Network Migration
   - Infrastructure
   - Switching
   - Fiber
-summary: "Took point on a full network IDF switch and fiber uplink deployment for the Hawai'i Convention Center."
+  - Smart City Networks
+summary: "Directed a full network upgrade, including IDF switch replacements and 10G fiber uplink deployment, at the Hawai'i Convention Center."
 ---
 
 <div class="stack-on-mobile"
