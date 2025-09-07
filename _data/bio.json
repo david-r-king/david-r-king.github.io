@@ -111,48 +111,58 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "The Pantry",
+      "website": "https://thepantry.org/",
+      "position": "Packing & Food Distribution",
+      "startDate": "2023-11-01",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Pack food to hand out to people in need during the holiday season",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Coordinate food requests and ensure proper, timely delivery"
       ]
     }
   ],
-  "awards": [
+  "awards and certifications": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Security+",
+      "date": "2021",
+      "awarder": "CompTIA",
+      "summary": "Entry-level certification that validates core cybersecurity skills, including securing networks, managing risk, and incident response."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "MTA 98-366",
+      "date": "2021",
+      "awarder": "Microsoft",
+      "summary": "Networking fundamentals certiication validating core knowledge in network infrastructure, hardware, protocols and services for entry-level technical positions."
+    },
+    {
+      "title": "AZ-900",
+      "date": "2021",
+      "awarder": "Microsoft",
+      "summary": "Demonstrates foundational knowledge of cloud concepts, core Azure services, Azure management and governance features and tools."
+    },
+    {
+      "title": "Navy and Marine Corps Achievement Medal",
+      "date": "2018",
+      "awarder": "Department of Defense",
+      "summary": "Award for exceptional performance while serving overseas, providing static security for civilian vessels in austere environments, and leading a small security team in the Mediterranean Sea."
     }
   ],
   "references": [
     {
-      "name": "Available upon request"
+      "name": "David Bachler"
+      "relationship": "Previous Manager - Smart City Networks"
+      "contact": "808-271-1832"
+    }
+    {
+      "name": "Christian Peterson"
+      "relationship": "Current Manager - Smart City Networks"
+      "contact": "918-955-1019"
+    } 
+    {
+      "name": "Jim Snook"
+      "relationship": "Regional Manager - Smart City Networks"
+      "contact": "808-321-4664"
     }
   ]
 }
