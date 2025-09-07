@@ -30,7 +30,7 @@ To overcome these challenges, I coordinated the deployment, installation and doc
 <img src="../img/networkupgrade/IDF1.jpeg" 
      alt="IDF Rack" 
      width="370" 
-     style="float: right; margin: 0 0 10px 20px;">
+     style="float: right; margin: 0 0 10px 20px; clear: right;">
 
 #### Key Contributions
 - **Switch Replacement:** Coordinated with our NOC to deploy 30+ newer enterprise-grade 3850 series switches with PoE+ capability across all 16 IDFs, retiring legacy hardware, and standardizing configurations for easier long-term management.  
