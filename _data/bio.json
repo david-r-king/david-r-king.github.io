@@ -149,6 +149,6 @@
     }
   ],
   "references": [
-    { available upon request }
+    { "references": "available upon request" }
   ]
 }
