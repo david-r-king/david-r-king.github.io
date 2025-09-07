@@ -43,7 +43,7 @@
     {
       "company": "Smart City Networks",
       "position": "Lead Network Technician",
-      "website": "",
+      "website": "https://smartcitynetworks.com/",
       "startDate": "2023-07-15",
       "endDate": "Present",
       "summary": "Providing networking services for large-scale, live events at the Hawai'i Convention Center.",
@@ -55,18 +55,52 @@
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Affordable Painting and Repair",
+      "position": "Project Manager",
+      "website": "https://affordableremodelingetx.com/",
+      "startDate": "2021-10-10",
+      "endDate": "2023-07-02",
+      "summary": "Managed home remodeling projects in East Texas",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Coordinated with team members daily to discuss the scope of work and evaluate any challenges we might encounter, establishing a smooth and efficient work flow.",
+        "Met with customers periodically to cover all facets of the work being performed and clarify all specifications, ensuring a high percentage of customer satisfaction.",
+        "Scheduled sub-contractors for different phases of a job and communicate with all parties involved, maximizing our productivity and time management.",
+        "Updated invoices based on changes to the scope of work, material upgrades and any unforeseen damage to current area of work, providing an up to date customer balance and avoiding any confusion in the process.",
+        "Recorded all company transactions throughout the year with an organized and simple to understand methodology, providing the maximum financial benefits for end of year taxes and granting a price reference for invoicing purposes."
       ]
+    },
+    {
+      "company": "General Dynamics Information Technology",
+      "position": "End-to-End Systems Engineer",
+      "website": "https://www.gdit.com/",
+      "startDate": "2021-06-01",
+      "endDate": "2021-10-01",
+      "summary": "Planned and executed training evolutions for the 25th Infantry Division",
+      "highlights": [
+        "Analyzed physical and logical network topologies with team members for planning, designing, evaluating, selecting and upgrading operating systems and protocol suites to ensure an efficient and safe training evolution for military clients from the battalion to divisional level.",
+        "Coordinated closely with high-ranking military officials to deliver appropriate and effective training for Army units to properly conduct missions overseas.",
+        "Assisted in the planning and implementation of highly available networks at the needs of the customer which included SIPR, NIPR and FVEY networks.",
+        "Collaborated with a variety of government entities to ensure the continuous connectivity and safety of secure networks, allowing for a smooth and consistent training routine for the customer.",
+        "Logged possible security vulnerabilities and network deficiencies during live simulations to pass along information and improve every stage of future evolutions."
+      ]
+    },
+    {
+      "company": "General Dynamics Information Technology",
+      "position": "End-to-End Systems Engineer",
+      "website": "https://www.gdit.com/",
+      "startDate": "2021-06-01",
+      "endDate": "2021-10-01",
+      "summary": "Planned and executed training evolutions for the 25th Infantry Division",
+      "highlights": [
+        "Analyzed physical and logical network topologies with team members for planning, designing, evaluating, selecting and upgrading operating systems and protocol suites to ensure an efficient and safe training evolution for military clients from the battalion to divisional level.",
+        "Coordinated closely with high-ranking military officials to deliver appropriate and effective training for Army units to properly conduct missions overseas.",
+        "Assisted in the planning and implementation of highly available networks at the needs of the customer which included SIPR, NIPR and FVEY networks.",
+        "Collaborated with a variety of government entities to ensure the continuous connectivity and safety of secure networks, allowing for a smooth and consistent training routine for the customer.",
+        "Logged possible security vulnerabilities and network deficiencies during live simulations to pass along information and improve every stage of future evolutions."
+       ]
     }
   ],
+    {
   "volunteer": [
     {
       "organization": "Center for Renewable Energy and Island Sustainability",
