@@ -9,7 +9,7 @@ labels:
   - Engineering
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/essays/matrix1.jpeg">
+<img src="../img/essays/matrix1.jpeg" alt="Essay Header Image" class="essay-header-img">
 
 <div class="text-center">
   <h2>From Python to TypeScript: A Side Journey Through Programming</h2>
@@ -37,5 +37,5 @@ Looking Ahead
 
 While I don’t expect to become a full-time developer, I see programming as part of my toolkit. My plan is to continue refining these skills while moving forward in networking and information security. What started as a curiosity in Python has become a foundation I can carry with me throughout my career.
 
-<img width="200px" class="rounded float-start pe-4" src="../img/essays/matrix2.jpeg">
+<img src="../img/essays/matrix2.jpeg" alt="Essay Header Image" class="essay-header-img">
 
