@@ -52,37 +52,47 @@ a {
 /* Make project images stack vertically on small screens */
 @media (max-width: 768px) {
   .img-thumbnail {
-    display: block;       /* puts each image on its own line */
-    margin: 10px auto;    /* centers the images with some spacing */
-    max-width: 50%;       /* makes them smaller so they fit nicely */
-    height: auto;         /* keeps proportions correct */
-  }
-
-  .stack-on-mobile {
-    display: block !important;   /* overrides inline display:flex */
-  }
-  .stack-on-mobile img {
-    display: block;
-    margin: 10px auto;
-    width: 100%;                 /* scale to fit screen */
-    max-width: 350px;            /* adjust size for mobile */
-    height: auto;
+    display: block;         /* puts each image on its own line */
+    margin: 10px auto;      /* centers the images with some spacing */
+    max-width: 50%;         /* makes them smaller so they fit nicely */
+    height: auto;           /* keeps proportions correct */
   }
 }
 
-/* Essay header image (full width, responsive) */
+.stack-on-mobile {
+  display: block !important;  /* overrides inline display:flex */
+}
+.stack-on-mobile img {
+  display: block;
+  margin: 10px auto;
+  width: 100%;              /* scale to fit screen */
+  max-width: 350px;         /* adjust size for mobile */
+  height: auto;
+}
+
+/* Essay header image (global) */
 .essay-header-img {
-  width: 100%;       /* spans full page width */
-  height: auto;      /* keeps proportions */
-  display: block;    /* removes inline spacing */
-  margin: 0 auto;    /* centers it */
-  max-height: 400px; /* optional cap for desktop */
-  object-fit: cover; /* crops image nicely if too tall */
+  width: 100%;              /* spans full page width */
+  height: auto;             /* keeps proportions */
+  display: block;           /* removes inline spacing */
+  margin: 0 auto;           /* centers it */
+  max-height: 400px;        /* optional cap for desktop */
+  object-fit: cover;        /* crops image nicely if too tall */
 }
 
 /* Mobile adjustment */
 @media (max-width: 768px) {
   .essay-header-img {
-    max-height: 250px; /* smaller banner on mobile */
+    max-height: 250px;      /* smaller banner on mobile */
   }
+}
+
+/* Essay-specific centering and full width */
+.essay-page .essay-header-img {
+  width: 100%;              /* make sure it spans full text area */
+  max-width: 100%;          /* prevents overflow */
+  height: auto;             /* keep proportions */
+  display: block;
+  margin: 0 auto;           /* centers it */
+  object-fit: cover;        /* keeps it neat if cropped */
 }
