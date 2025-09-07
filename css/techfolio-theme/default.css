@@ -59,15 +59,34 @@ a {
   }
 }
 
-.stack-on-mobile {
-  display: block !important;  /* overrides inline display:flex */
+/* --- Projects image row: DESKTOP default -------------------------------- */
+.stack-on-mobile{
+  display: flex !important;          /* keep row on desktop */
 }
-.stack-on-mobile img {
-  display: block;
-  margin: 10px auto;
-  width: 100%;              /* scale to fit screen */
-  max-width: 350px;         /* adjust size for mobile */
+.stack-on-mobile img{
   height: auto;
+}
+
+/* --- MOBILE: stack them vertically -------------------------------------- */
+@media (max-width: 768px){
+  .stack-on-mobile{
+    display: block !important;       /* now we stack only on small screens */
+  }
+  .stack-on-mobile img{
+    display: block;
+    margin: 10px auto;               /* center each image */
+    width: 100%;
+    max-width: 420px;                /* tweak size if you like */
+    height: auto;
+  }
+
+  /* If you’re using .img-thumbnail on those images, keep the mobile tweak here too */
+  .img-thumbnail{
+    display: block;
+    margin: 10px auto;
+    max-width: 50%;
+    height: auto;
+  }
 }
 
 /* Essay header image (global) */
