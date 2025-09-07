@@ -28,35 +28,21 @@ My introduction to programming began in 2022 with Python, which as most know, is
 
 ⸻
 
-Similarities Between Python and TypeScript
+Similarities Between Java and TypeScript
 
-Although Python and TypeScript serve different domains, they share several similarities that eased the transition between the two. Both languages are high-level, abstracting away low-level details such as memory management. Each supports object-oriented programming, allowing the definition of classes, inheritance, and encapsulation. Additionally, both languages are widely used in web and software development, supported by large communities and extensive libraries. This overlap meant that skills learned in Python — such as structuring functions, designing reusable modules, and applying programming logic — could be carried over when working in TypeScript.
+One of the most obvious similarities between Java and Typescript is they both rely on strong typing, which I appreciate. For me, it has made it easier to understand what is happening and reduces any accidental type-mismatches. Variables, functions, and classes are tied to specific data types across both languages, which forces the programmer to be more accurate about how the data is handled. This strict type discipline helps to catch errors earlier and makes debugging easier as the program grows. Aside from typing, both Java and Typescript put emphasis on structure and object-oriented programming. The use of classes, inheritance and encapsulation are found in both and allow the programmer to create blocks of malleable, reusable code. The syntax is moderately different, however, the same structural mindset developed for Java does carry over quite well to Typescript. This has helped make it feel less like learning a new language and more like applying rules I'm already familiar with, just in a different context.
 
 ⸻
 
-Differences Between Python and TypeScript
+Differences Between Java and TypeScript
 
-Despite these similarities, Python and TypeScript diverge in important ways:
-	1.	Typing System:
-	•	Python is dynamically typed, meaning variables can change type at runtime. This flexibility accelerates prototyping but can lead to hidden errors.
-	•	TypeScript is statically typed, requiring explicit type declarations or type inference at compile time. This enforces discipline and reduces runtime errors.
-	2.	Execution Model:
-	•	Python runs as an interpreted language, executing code line by line.
-	•	TypeScript must first be transpiled into JavaScript before execution, adding a compilation step but also enabling earlier error detection.
-	3.	Tooling and Error Checking:
-	•	Python relies heavily on testing and debugging during runtime.
-	•	TypeScript integrates closely with modern editors, offering real-time feedback, autocompletion, and safer refactoring.
-	4.	Use Cases:
-	•	Python excels in automation, data analysis, and scripting.
-	•	TypeScript is primarily adopted in web application development, where large teams benefit from structure and maintainability.
-
-These differences illustrate the shift from Python’s simplicity and flexibility to TypeScript’s emphasis on engineering practices and scalability.
+On the surface, these two languages look very similar with their syntax and structure, however, there are a few key differences that stand out. Java is a compiled language that runs on JVM (Java Virtual Machine), meaning the programs built in an IDE are translated to bytecode and that translation is passed through JVM in order for it to run. Typescript, on the other hand, is a superset of JavaScript and instead of bytecode, is translated into JavaScript before executing. This gives a different back-end workflow between the two and highlights TypeScripts closer connection to web development, unlike Javas connection to enterprise systems and backend applications. Another difference would be in the syntax itself, as the same concepts are found in both, the execution of these concepts in TypeScript feel a little lighter and less robust than what is found in Java. The third and final difference I have noticed lies in the development environment. Java is mostly constructed and ran in heavier IDEs such as Eclipse and IntelliJ, which allows for deeper integration in large projects. TypeScript seems to be ran on more light-weight editors like VSCode, allowing for real-time error checking and autocomplete that make it feel a little faster, less heavy and easier to work with.
 
 ⸻
 
 Conclusion
 
-Learning Python first provided a foundation in logic and problem-solving that made the transition to TypeScript smoother. Python fostered curiosity and rapid experimentation, while TypeScript demanded greater discipline and precision. Both languages complement one another: Python remains a powerful tool for quick solutions, whereas TypeScript enforces practices that support long-term, collaborative software projects. Together, they represent two distinct yet valuable approaches to programming — one prioritizing accessibility and flexibility, the other prioritizing structure and reliability.
+At the end of the day, I am grateful that I started off with Python. It allowed me to get a foothold on some of the foundational concepts that might have slipped past me in a more syntax-heavy language, such as Java. The transition from Python to Java helped me build onto that foundation by slowly (or not so slowly) introducing me to a more structured and strongly typed environment. With the addition of TypeScript, I can see how those same concepts I learned years ago still apply, only in a different framework. For me, Java was a difficult language to get down but with TypeScript feels significantly easier and I strongly believe that's due to four semesters of focusing on Java. Even though my career plans right now don't include software development or engineering, I am excited to continue learning more about the language and to apply it wherever possible in the fields of information security or network engineering.
 
 
 
