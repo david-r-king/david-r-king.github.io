@@ -116,7 +116,16 @@ a {
   object-fit: cover;        /* keeps it neat if cropped */
 }
 
-/* Center main essay titles */
-h1.page-title {
-  text-align: center;
+/* Add spacing only inside essay pages */
+.essay-page {
+  margin-bottom: 20px;   /* space below the banner image */
+}
+
+.essay-page + .text-center h2 {
+  margin-top: 20px;      /* space above subtitle */
+  margin-bottom: 20px;   /* space below subtitle */
+}
+
+.text-center + p {
+  margin-top: 20px;      /* space between h2 and first paragraph */
 }
