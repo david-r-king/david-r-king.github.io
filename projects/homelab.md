@@ -30,7 +30,7 @@ My next plan is to continue the same path and maybe work with Hydra next time. W
      style="float: right; margin: 0 0 10px 20px;">
 
 #### Experience Gained
-- **Static:** Configured static IP addresses on Raspberry Pi devices, ensuring a direct connection and segregation from my home network.
+- **Static Addressing:** Configured static IP addresses on Raspberry Pi devices, ensuring a direct connection and segregation from my home network.
 - **NMAP:** Used NMAP for reconnaissance to discover potentially vulnerable target machines, open ports and activley running services.
 - **Password Testing:** Built and deployed a custom password library used to simulate how hackers are able to obtain passwords in real world application.
 - **System Monitoring:** Through each evolution, monitored and evaluated the target machine to identify and abnormalities from the end-user perspective.
