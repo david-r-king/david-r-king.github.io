@@ -31,7 +31,7 @@
   "education": [
     {
       "institution": "University of Hawai'i, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2027)",
+      "area": "Computer Science (Expected Spring, 2027)",
       "studyType": "B.A.",
       "startDate": "2024-08-15",
       "endDate": "Present",
@@ -41,7 +41,7 @@
     {
       "institution": "Embry-Riddle Aeronautical University",
       "area": "Microsoft Software & Systems Academy",
-      "studyType": "B.A.",
+      "studyType": "Certification",
       "startDate": "2021-01-14",
       "endDate": "2021-05-01",
       "courses": [ "Server & Cloud Administration", "DNS & Network Services", "Enterprise Network Architecture & Design", "Active Directly Services & Identity Management", "Remote Access & Security Services", "Cloud Platforms & Virtualization (Azure)"
