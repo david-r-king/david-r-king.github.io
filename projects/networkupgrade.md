@@ -31,7 +31,7 @@ To overcome these challenges, I coordinated the deployment, installation and doc
 
 <img src="../img/networkupgrade/IDF1.jpeg" 
      alt="IDF Rack" 
-     width="365" 
+     width="370" 
      style="float: right; margin: 0 0 10px 20px;">
 
 #### Key Contributions
