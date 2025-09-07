@@ -10,8 +10,8 @@ labels:
 ---
 
 
-<img class="essay-header-img" src="../img/essays/matrix1.jpeg">
-
+<div class="essay-page">
+  <img src="../img/essays/matrix1.jpeg" class="essay-header-img" alt="Matrix Banner">
 
 <div class="text-center">
   <h2>From Python to TypeScript: A Side Journey Through Programming</h2>
@@ -38,6 +38,10 @@ Key Takeaways
 Looking Ahead
 
 While I don’t expect to become a full-time developer, I see programming as part of my toolkit. My plan is to continue refining these skills while moving forward in networking and information security. What started as a curiosity in Python has become a foundation I can carry with me throughout my career.
+</div>
 
-<img class="essay-header-img" src="../img/essays/matrix2.jpeg">
+
+<div class="essay-page">
+  <img src="../img/essays/matrix2.jpeg" class="essay-header-img" alt="Matrix Banner">
+</div>
 
