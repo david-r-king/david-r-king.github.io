@@ -67,21 +67,19 @@ a {
   height: auto;
 }
 
-/* --- MOBILE: stack them vertically -------------------------------------- */
 @media (max-width: 768px){
-  .stack-on-mobile{
-    display: block !important;       /* now we stack only on small screens */
-  }
-  .stack-on-mobile img{
+  .stack-on-mobile { display: block !important; }
+
+  .stack-on-mobile img {
     display: block;
-    margin: 10px auto;               /* center each image */
+    margin: 10px auto;
     width: 100%;
-    max-width: 420px;                /* tweak size if you like */
+    max-width: 420px;
     height: auto;
   }
 
-  /* If you’re using .img-thumbnail on those images, keep the mobile tweak here too */
-  .img-thumbnail{
+  /* thumbnails elsewhere on the site (NOT in stack-on-mobile) */
+  .img-thumbnail:not(.stack-on-mobile img) {
     display: block;
     margin: 10px auto;
     max-width: 50%;
