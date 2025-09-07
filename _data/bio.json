@@ -6,7 +6,7 @@
     "email": "dking3@hawaii.edu",
     "phone": "903-830-5847",
     "website": "https://david-r-king.github.io",
-    "summary": "In pursuit of my B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawai'i. Expected graduation date: Spring, 2027.",
+    "summary": "In pursuit of my B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawai'i. Expected graduation date: Spring, 2027. Strong interest in federal information security and network engineering.",
     "location": { "address": "", "postalCode": "96744", "city": "Kanoehe", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "david-r-king", "url": "http://github.com/david-r-king" },
@@ -14,42 +14,44 @@
     ]
   },
   "interests": [
-    { "name": "Wireless Networking" },
+    { "name": "Network Engineering" },
     { "name": "Information Security" },
-    { "name": "Fitness" }
+    { "name": "Cloud Technologies" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "Java", "Python", "C", "C++" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "Windows" ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "institution": "University of Hawai'i, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2027)",
+      "studyType": "B.A.",
+      "startDate": "2024-08-15",
       "endDate": "Present",
-      "courses": [
+      "courses": [ "Data Structure", "Linear Algebra", "Calculus I & II", "Algorithms", "Software Engineering I & II"
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Smart City Networks",
+      "position": "Lead Network Technician",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2023-07-15",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Providing networking services for large-scale, live events at the Hawai'i Convention Center.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Deliver reliable wired and wireless connectivity for high-profile events at the Hawai’i Convention Center, enabling seamless operations for event coordinators and clients.",
+        "Configure Cisco switches and managed VLAN segmentation to optimize traffic flow and meet specific client performance and security requirements.",
+        "Deploy infrastructure upgrades and redesign IDFs as needed, enhancing network reliability and streamlining future event setups.",
+        "Leverage Cisco WLC to provision supplemental wireless access points with tailored bandwidth allocations based on projected attendance, user roles, and venue layout."
       ]
     },
     {
