@@ -13,9 +13,11 @@ labels:
 <div class="essay-page">
   <img src="../img/essays/matrix1.jpeg" class="essay-header-img" alt="Matrix Banner">
 
+
 <div class="text-center">
   <h2>From Python to TypeScript: A Side Journey Through Programming</h2>
 </div>
+
 
 I first started experimenting with programming in 2021 by playing around with Python. At the time, I wasn’t aiming to become a developer—I was just curious about what coding could do. I remember being fascinated by simple for loops and if statements, and I even put together a basic “choose your own adventure” text game. It wasn’t polished, but it showed me how a few lines of logic could create something interactive. For me, it was more of a fun project than a serious pursuit.
 
