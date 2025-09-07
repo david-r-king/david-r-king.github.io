@@ -16,9 +16,7 @@ summary: "Directed a full network upgrade, including IDF switch replacements and
 
 <div class="stack-on-mobile"
      style="display: flex; justify-content: center; align-items: center; gap: 50px; margin: 20px 0;">
-  <img src="../img/networkupgrade/pokemon2.jpeg" class="img-thumbnail" style="max-width: 250px; height: auto;">
-  <img src="../img/networkupgrade/pokemon.jpeg" class="img-thumbnail" style="max-width: 500px; height: auto;">
-  <img src="../img/networkupgrade/pokemon1.jpeg" class="img-thumbnail" style="max-width: 250px; height: auto;">
+  <img src="../img/networkupgrade/pokemon.jpeg" class="img-thumbnail" style="max-width: 700px; height: auto;">
 </div>
 
 <h3 class="text-center">Network Infrastructure Upgrade – Hawai'i Convention Center</h3>
