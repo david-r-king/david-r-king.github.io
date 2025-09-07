@@ -17,9 +17,7 @@ summary: "Providing reliable, secure wired and wireless networks on the fly."
 
 <div class="stack-on-mobile"
      style="display: flex; justify-content: center; align-items: center; gap: 30px; margin: 20px 0;">
-  <img src="../img/events/PAXWest2.jpeg" class="img-thumbnail" style="width: 400px; height: auto;">
-  <img src="../img/events/PAXWest1.jpeg" class="img-thumbnail" style="width: 400px; height: auto;">
-  <img src="../img/events/PAXWest.jpeg" class="img-thumbnail" style="width: 400px; height: auto;">
+  <img src="../img/events/PAXWest.jpeg" class="img-thumbnail" style="width: 600px; height: auto;">
 </div>
 
 <h3 class="text-center">Event-Based Networks – Large-Scale Conventions and Live Events</h3>
