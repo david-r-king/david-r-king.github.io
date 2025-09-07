@@ -96,3 +96,9 @@ a {
   margin: 0 auto;           /* centers it */
   object-fit: cover;        /* keeps it neat if cropped */
 }
+
+/* Center essay page main titles */
+.essay-page h1, 
+.essay-page .page-title {
+  text-align: center;
+}
