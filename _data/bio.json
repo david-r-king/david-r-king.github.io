@@ -37,7 +37,16 @@
       "endDate": "Present",
       "courses": [ "Data Structure", "Linear Algebra", "Calculus I & II", "Algorithms", "Software Engineering I & II"
       ]
-    }
+    },
+    {
+      "institution": "Embry-Riddle Aeronautical University",
+      "area": "Microsoft Software & Systems Academy",
+      "studyType": "B.A.",
+      "startDate": "2021-01-14",
+      "endDate": "2021-05-01",
+      "courses": [ "Server & Cloud Administration", "DNS & Network Services", "Enterprise Network Architecture & Design", "Active Directly Services & Identity Management", "Remote Access & Security Services", "Cloud Platforms & Virtualization (Azure)"
+      ]
+    }  
   ],
   "work": [
     {
@@ -58,9 +67,9 @@
       "company": "Affordable Painting and Repair",
       "position": "Project Manager",
       "website": "https://affordableremodelingetx.com/",
-      "startDate": "2021-10-10",
+      "startDate": "2021-9-10",
       "endDate": "2023-07-02",
-      "summary": "Managed home remodeling projects in East Texas",
+      "summary": "Managed home remodeling projects in East Texas.",
       "highlights": [
         "Coordinated with team members daily to discuss the scope of work and evaluate any challenges we might encounter, establishing a smooth and efficient work flow.",
         "Met with customers periodically to cover all facets of the work being performed and clarify all specifications, ensuring a high percentage of customer satisfaction.",
@@ -73,9 +82,9 @@
       "company": "General Dynamics Information Technology",
       "position": "End-to-End Systems Engineer",
       "website": "https://www.gdit.com/",
-      "startDate": "2021-06-01",
-      "endDate": "2021-10-01",
-      "summary": "Planned and executed training evolutions for the 25th Infantry Division",
+      "startDate": "2021-05-01",
+      "endDate": "2021-9-01",
+      "summary": "Planned and executed training evolutions for the 25th Infantry Division.",
       "highlights": [
         "Analyzed physical and logical network topologies with team members for planning, designing, evaluating, selecting and upgrading operating systems and protocol suites to ensure an efficient and safe training evolution for military clients from the battalion to divisional level.",
         "Coordinated closely with high-ranking military officials to deliver appropriate and effective training for Army units to properly conduct missions overseas.",
@@ -85,18 +94,18 @@
       ]
     },
     {
-      "company": "General Dynamics Information Technology",
-      "position": "End-to-End Systems Engineer",
-      "website": "https://www.gdit.com/",
-      "startDate": "2021-06-01",
-      "endDate": "2021-10-01",
-      "summary": "Planned and executed training evolutions for the 25th Infantry Division",
+      "company": "United States Navy",
+      "position": "Senior Security Boat Captain",
+      "website": "https://www.navy.com/",
+      "startDate": "2014-03-017",
+      "endDate": "2021-5-17",
+      "summary": "Provided static and dynamic waterborne security for high-value assets in transit.",
       "highlights": [
-        "Analyzed physical and logical network topologies with team members for planning, designing, evaluating, selecting and upgrading operating systems and protocol suites to ensure an efficient and safe training evolution for military clients from the battalion to divisional level.",
-        "Coordinated closely with high-ranking military officials to deliver appropriate and effective training for Army units to properly conduct missions overseas.",
-        "Assisted in the planning and implementation of highly available networks at the needs of the customer which included SIPR, NIPR and FVEY networks.",
-        "Collaborated with a variety of government entities to ensure the continuous connectivity and safety of secure networks, allowing for a smooth and consistent training routine for the customer.",
-        "Logged possible security vulnerabilities and network deficiencies during live simulations to pass along information and improve every stage of future evolutions."
+        "Coordinated closely within a team to provide secure passage for designated customers through the Pearl Harbor channel. ",
+        "Conducted over 250 hours of technical boat training for new personnel which provided continuous protection throughout the harbor for all residents.",
+        "Administered over 100 escorts for customers transiting in the harbor, requiring an immense amount of focus and attention to detail every day, with zero mishaps.",
+        "Made direct and deliberate decisions in an instant to ensure a safe environment for all personnel within the harbor.",
+        "Analyzed standard operating procedures and conducted simulated scenarios with my team, leading to an always prepared and ready waterborne security force."
        ]
     }
   ],
