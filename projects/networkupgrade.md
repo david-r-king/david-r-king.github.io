@@ -14,14 +14,14 @@ labels:
 summary: "Directed a full network upgrade, including IDF switch replacements and 10G fiber uplink deployment, at the Hawai'i Convention Center."
 ---
 
-<div class="stack-on-mobile"
-     style="display: flex; justify-content: center; align-items: center; gap: 50px; margin: 20px 0;">
-  <img src="../img/networkupgrade/pokemon.jpeg" class="img-thumbnail" style="max-width: 700px; height: auto;">
-</div>
-
 <h3 class="text-center">Network Infrastructure Upgrade – Hawai'i Convention Center</h3>
 
-I led a complete, facility-wide, upgrade of the Hawai'i Convention Center’s network infrastructure to improve reliability, bandwidth, and long-term scalability.  
+I led a complete, facility-wide, upgrade of the Hawai'i Convention Center’s network infrastructure to improve reliability, bandwidth, and long-term scalability. 
+
+<img src="../img/networkupgrade/pokemon.jpeg" 
+     alt="IDF Rack" 
+     width="370" 
+     style="float: right; margin: 0 0 10px 20px;">
 
 The upgrade was driven by recurring issues during large events, most notably the **Pokémon World Championships**, where the existing 1G fiber uplink fell short of the events requirements. Due to the global visibility and high-profile nature of the event, the company approved a full network upgrade to meet the clients demanding performance requirements. Aside from the bandwitch boost to the building, we also obtained **Power over Ethernet (PoE)** throughout our IDFs, which improved deployment speed and accuracy of supplemental access points for future events. Running inline power for each supplemental in high-density areas created an additional point of failure and added valuable time to the process, which can be critical in an event based networking environment.
 
