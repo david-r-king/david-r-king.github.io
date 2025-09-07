@@ -11,7 +11,7 @@ labels:
   - Hydra
   - Raspberry Pi
   - Pentesting
-summary: "Secure, isolated home lab environment for information security and pentesting hands-on experience."
+summary: "Secure, isolated home lab environment for hands-on experience in information security and pentesting."
 ---
 
 <h3 class="text-center">Home Lab – Security Testing and Network Experimentation</h3>
