@@ -122,7 +122,7 @@
       ]
     }
   ],
-  "awards and certifications": [
+  "awards": [
     {
       "title": "Security+",
       "date": "2021",
@@ -149,6 +149,6 @@
     }
   ],
   "references": [
-    { "available upon request" }
+    { available upon request }
   ]
 }
