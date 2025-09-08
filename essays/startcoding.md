@@ -40,6 +40,12 @@ On the surface, these two languages look very similar with their syntax and stru
 
 ⸻
 
+Athletic Software Engineering
+
+I really like the idea of Athletic Software Engineering, as repetition is incredibly important for building a skillset. Treating coding the same way you would treat anything you want to get better at and leveraging consistent practice can only help in my opinion. I took a 3 month break from programming and most of the concepts stuck around, but the execution suffered severely. This showed me that programming is much like playing sports or an instrument, if you step away for too long risk losing the sharpness and fluidity that comes with daily practice. The athletic model, and taking time off over summer, is not just about memorizing theory, but about muscle memory and problem solving. I also enjoy the in class and practice WODs, it gives me a project I can sit and practice with instead of trying to come up with something on my own, and aren't overly difficult. Overall, I plan on implementing this idea into my study habits in hopes to improve my coding abilities.
+
+⸻
+
 Conclusion
 
 At the end of the day, I am grateful that I started off with Python. It allowed me to get a foothold on some of the foundational concepts that might have slipped past me in a more syntax-heavy language, such as Java. The transition from Python to Java helped me build onto that foundation by slowly (or not so slowly) introducing me to a more structured and strongly typed environment. With the addition of TypeScript, I can see how those same concepts I learned years ago still apply, only in a different framework. For me, Java was a difficult language to get down but TypeScript feels significantly easier and I strongly believe that's due to four semesters of focusing on Java. Even though my career plans right now don't include software development or engineering, I am excited to continue learning more about the language and to apply it wherever possible in the fields of information security or network engineering.
