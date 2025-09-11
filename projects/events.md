@@ -24,7 +24,7 @@ Managing event-based networks presents a unique set of challenges. Strict time c
      width="370"  
      style="float: right; margin: 0 0 10px 20px;">
 
-The most common challenges would have to be last-minute changes or adjustments to event layouts, exhibitor requests and network functionality. Staying ahead of the project is crucial, as the time constraint is always a factor, and getting as much information as soon as possible helps immensely with planning and deployment. Another, very critical element, of a successful event comes down to the **team and communication.** Thankfully, I have always had a fantastic team beside me that allows me to perform in the most efficient and effective way possible. With multiple moving parts spread across several  departments, miscommunication or information delays can be detrimental to success.
+The most common challenges would have to be last-minute changes or adjustments to event layouts, exhibitor requests and network functionality. Staying ahead of the project is crucial, as the time constraint is always a factor, and getting as much information as soon as possible helps immensely with planning and deployment. Another, very critical element, of a successful event comes down to the **teamwork and communication.** Thankfully, I have always had a fantastic team behind me that allow me to operate in the most efficient and effective way possible. With multiple moving parts spread across several departments, miscommunication or information delays can be detrimental to success.
 
 <img src="../img/events/mih.jpeg"  
      alt="Event Networking Deployment"  
