@@ -16,7 +16,7 @@ summary: "Secure, isolated home lab environment for hands-on experience in infor
 
 <h3 class="text-center">Home Lab – Security Testing and Network Experimentation</h3>
 
-I have wanted an isolated home lab for a couple of years, separate from my regular use network. Over summer, I was cleaning out my closet and came across an old Raspberry Pi model 4B from 2021. After I powered it up and connected, I was online ordering another 4B as well as the Raspberry Pi 5. My goal was fairly simple, create a safe and practical learning environment for **pentesting, network hardening and security best practices**.
+I had wanted an isolated home lab for a few years, separate from my regular use network. Over summer, I was cleaning out my closet and came across an old Raspberry Pi model 4B from 2021. After I powered it up and connected, I was online ordering another 4B as well as the Raspberry Pi 5. My goal was fairly simple, create a safe and practical learning environment for **pentesting, network hardening and security best practices**.
 
 <img src="../img/homelab/HomeLab.jpeg"  
      alt="Home Lab Setup"  
