@@ -43,31 +43,33 @@ The clarity and simplification of the question resulted in outstanding responses
 In contrast, consider the following mock example that reflects the type of poor questions often downvoted or closed on StackOverflow:
 
 
-> Title: “Java program doesn’t work, urgent help needed!!!”
-
-> Body:
->   Hi, I’m new to Java. I wrote this program for my class but it keeps giving me errors and I don’t know why. Please fix it for me. I need it to run by tomorrow!!!
+> **Title:** “Java program doesn’t work, urgent help needed!!!”  
+>   
+> **Body:**  
+> Hi, I’m new to Java. I wrote this program for my class but it keeps giving me errors and I don’t know why. Please fix it for me. I need it to run by tomorrow!!!  
+>   
+> ```java
+> public class Calculator {
+>   private int total;
 > 
->     public class Calculator {
->       private int total;
+>   public void add(int x) {
+>     total = total + x;
+>   }
 > 
->       public void add(int x) {
->         total = total + x;
->       }
+>   public void subtract(int x) {
+>     total = total - x;
+>   }
 > 
->       public void subtract(int x) {
->         total = total - x;
->       }
-> 
->       public static void main(String[] args) {
->         Calculator c = new Calculator();
->         c.add("5");
->         c.subtract(3);
->         System.out.println("Total is: " + total);
->       }
->     }
-> 
->  It just says "error" when I try to run it. Sometimes it won't even compile. I don't know why it isn't working. Can someone fix it? Please respond quickly, it's urgent!
+>   public static void main(String[] args) {
+>     Calculator c = new Calculator();
+>     c.add("5");
+>     c.subtract(3);
+>     System.out.println("Total is: " + total);
+>   }
+> }
+> ```
+>   
+> It just says "error" when I try to run it. Sometimes it won’t even compile. I don’t know why it isn’t working. Can someone fix it? Please respond quickly, it’s urgent!  
   
 
 This type of question demonstrates the opposite of the “smart way.” The title is vague and provides no useful context beyond “doesn’t work.” The body includes code, but it is incomplete, not reproducible, and contains obvious mistakes: passing a String where an int is expected and referencing a variable that is out of scope. Most importantly, the asker does not provide the actual error message, which makes diagnosing the problem almost impossible.
