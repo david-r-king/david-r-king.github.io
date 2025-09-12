@@ -43,9 +43,9 @@ The clarity and simplification of the question resulted in outstanding responses
 In contrast, consider the following mock example that reflects the type of poor questions often downvoted or closed on StackOverflow:
 
 
-> Title: *“Java program doesn’t work, urgent help needed!!!”*  
+> **Title:** *“Java program doesn’t work, urgent help needed!!!”*  
 >   
-> Body:  
+> **Body:** 
 > *Hi, I’m new to Java. I wrote this program for my class but it keeps giving me errors and I don’t know why. Please fix it for me. I need it to run by tomorrow!!!*
 >   
 > ```java
