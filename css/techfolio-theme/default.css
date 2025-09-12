@@ -136,14 +136,3 @@ a {
   margin-top: 20px !important;
   margin-bottom: 20px !important;
 }
-
-.sopost {
-  margin: 1rem 0;
-  padding: 1rem 1.25rem;
-  border-left: 4px solid #6a737d;
-  background: #f6f8fa;
-  border-radius: 6px;
-}
-.sopost pre {
-  margin: 0.75rem 0 0;
-}
