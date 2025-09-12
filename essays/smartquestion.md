@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Dumb Questions Happen"
+title: "Don't Be Dumb"
 # All dates must be YYYY-MM-DD format!
 date: 2025-09-11
 published: true
