@@ -15,7 +15,7 @@ labels:
 
 
 <div class="essay-page">
-  <img src="../img/essays/matrix1.jpeg" class="essay-header-img" alt="Matrix Banner">
+  <img src="../img/essays/lightbulbs.jpg" class="essay-header-img" alt="Light Bulbs">
 </div>
 
 <div class="text-center">
