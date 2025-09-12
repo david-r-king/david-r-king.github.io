@@ -39,7 +39,7 @@ The clarity and simplification of the question resulted in outstanding responses
 ### Example of a Not Smart Question
 
 In contrast, consider the following mock example that reflects the type of poor questions often downvoted or closed on StackOverflow:
-_________________________________________
+____________________________________________________________
 
 Title: “Java program doesn’t work, urgent help needed!!!”
 
@@ -66,7 +66,7 @@ Body:
     }
 
   It just says "error" when I try to run it. Sometimes it won't even compile. I don't know why it isn't working. Can someone fix it? Please respond quickly, it's urgent!
-_________________________________________
+____________________________________________________________
 
 This type of question demonstrates the opposite of the “smart way.” The title is vague and provides no useful context beyond “doesn’t work.” The body includes code, but it is incomplete, not reproducible, and contains obvious mistakes: passing a String where an int is expected and referencing a variable that is out of scope. Most importantly, the asker does not provide the actual error message, which makes diagnosing the problem almost impossible.
 
