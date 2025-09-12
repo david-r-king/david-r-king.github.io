@@ -28,7 +28,7 @@ Asking questions is a central part of being a software engineer. No matter how e
 
 Example of a Smart Question
 
-A great example of asking a question the "smart way" found on StackOverflow: [Why is processing a sorted array faster than processing an unsorted array?](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array)
+A great example of asking a question the "smart way", found on StackOverflow: [Why is processing a sorted array faster than processing an unsorted array?](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array)
 
 The asker observed that iterating through a sorted array in C++ was unexpectedly faster than iterating through an unsorted one. To illustrate the issue, they included a complete code sample that generated an array, sorted it, and then measured runtime performance over many iterations. They reported the timing results: the unsorted array took about 11.5 seconds, while the sorted array took only 1.9 seconds. To rule out language-specific issues, the asker even repeated the experiment in Java and shared those results.
 
@@ -45,12 +45,28 @@ In contrast, consider the following mock example that reflects the type of poor 
 Title: “Java program doesn’t work, urgent help needed!!!”
 
 Body:
-  Hi, I’m new to Java. I wrote a program but it doesn’t work. Please fix it for me. Thanks.
+  Hi, I’m new to Java. I wrote this program for my class but it keeps giving me errors and I don’t know why. Please fix it for me. I need it to run by tomorrow!!!
 
-    public class Test {
+    public class Calculator {
+      private int total;
+
+      public void add(int x) {
+        total = total + x;
+      }
+
+      public void subtract(int x) {
+        total = total - x;
+      }
+
       public static void main(String[] args) {
-      
+        Calculator c = new Calculator();
+        c.add("5");
+        c.subtract(3);
+        System.out.println("Total is: " + total);
+      }
+    }
 
+    It just says "error" when I try to run it. Sometimes it won't even compile. I don't know why it isn't working. Can someone fix it? Please respond quickly, it's urgent!
 
 ⸻
 
