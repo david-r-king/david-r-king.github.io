@@ -26,6 +26,10 @@ Asking questions is inevitable in every aspect of life, and the outcome or resul
 
 ---
 
+<div class="text-center">
+  <h2> Example of a Smart Question </h2>
+</div>
+
 ### Example of a Smart Question
 
 A great example of asking a question the "smart way", found on StackOverflow: [Why is processing a sorted array faster than processing an unsorted array?](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array)
