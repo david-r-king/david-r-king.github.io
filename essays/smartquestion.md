@@ -15,7 +15,7 @@ labels:
 
 
 <div class="essay-page">
-  <img src="../img/essays/lightbulbs2.jpg" class="essay-header-img" alt="Light Bulbs">
+  <img src="../img/essays/lightbulbs3.jpg" class="essay-header-img" alt="Light Bulbs">
 </div>
 
 <div class="text-center">
