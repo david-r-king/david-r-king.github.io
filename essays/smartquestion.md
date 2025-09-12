@@ -39,6 +39,7 @@ The clarity and simplification of the question resulted in outstanding responses
 ### Example of a Not Smart Question
 
 In contrast, consider the following mock example that reflects the type of poor questions often downvoted or closed on StackOverflow:
+
 ____________________________________________________________
 
 Title: “Java program doesn’t work, urgent help needed!!!”
