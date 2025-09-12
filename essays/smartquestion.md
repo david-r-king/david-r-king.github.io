@@ -40,8 +40,7 @@ The clarity and simplification of the question resulted in outstanding responses
 
 ### Example of a Not Smart Question
 
-In contrast, consider the following mock example that reflects the type of poor questions often downvoted or closed on StackOverflow:
-
+With the "smart way" fresh in our minds, let's see how another example compares:
 
 > **Title:** *“Java program doesn’t work, urgent help needed!!!”*  
 >   
@@ -71,18 +70,12 @@ In contrast, consider the following mock example that reflects the type of poor 
 >   
 > *It just says “error” when I try to run it. Sometimes it won’t even compile. I don’t know why it isn’t working. Can someone fix it? Please respond quickly, it’s urgent!*
 
+Though this was an AI-generated post, it is a good example of a bad question. I would say this is as close to the opposite of the "smart way" as they come. The title is vague and insistent, it provides no useful context outside of "doesn't work". While the body of the post does include code, there is little to no evidence that this user made an effort to work through it themselves or what the actual error message is, which is one of the most important pieces of information when troubleshooting. All of this leads to frustration for the reader and makes it almost impossible to respond in a constructive, positive way.
 
-This type of question demonstrates the opposite of the “smart way.” The title is vague and provides no useful context beyond “doesn’t work.” The body includes code, but it is incomplete, not reproducible, and contains obvious mistakes: passing a String where an int is expected and referencing a variable that is out of scope. Most importantly, the asker does not provide the actual error message, which makes diagnosing the problem almost impossible.
-
-There is also no sign of research effort or attempted troubleshooting. Instead of sharing what they tried, the asker simply demands that others fix the problem, even adding urgency with phrases like “Please respond quickly.” This tone is discouraging and disrespectful to the community.
-
-Unsurprisingly, questions like this rarely receive high-quality responses. At best, they may get impatient replies asking for more details, dismissive comments reminding the asker to read the documentation, or random guesses that do not resolve the issue. In the worst case, the question is downvoted, flagged as homework, or closed altogether.
-
-This example highlights why the “not smart way” fails: it wastes time, creates frustration, and adds little to no long-term value for the community.
+When comparing to the earlier "smart question" example about sorted arrays, there is a stark difference. The array question showed clear thought and effort towards solving the problem themselves before passing the problem off. This post comes across in a "do my homework for me, and do it now" tone, showing no research, no clarity, and no respect for the audience. In the end, one of these questions draws minds in and encourages genuinely positive responses while one encourages readers to look for the block or report button. This highlights how putting in thought and effort can change the results dramatically.
 
 ---
 
 ### Conclusion
 
-For software engineers, asking questions the smart way is more than just a strategy for quick answers — it is a habit that builds credibility, accelerates learning, and strengthens the collaborative culture of open-source and technical communities. By studying both successful and unsuccessful examples, it becomes clear that smart questions are essential for both efficient problem-solving and long-term growth as a professional developer.
-
+The importance of asking questions the "smart way", most notably for software engineers, cannot be overstated. Whether you take the time to solve the problem yourself, or don't, is often obvious when asking the question and can influence the response. Making this a habit builds credibility, accelerates learning, and strengthens the collaborative culture of open-source and problem solving communities. After comparing both the "smart" and "not smart" ways to ask a question, hopefully we have all learned how essential it is for long-term growth as a professional developer.
