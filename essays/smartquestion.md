@@ -19,7 +19,7 @@ labels:
 </div>
 
 <div class="text-center">
-  <h2> How to Make Questions Smart </h2>
+  <h2 style="text-decoration: underline;> How to Make Questions Smart </h2>
 </div>
 
 Asking questions is inevitable in every aspect of life, and the outcome or result of asking a question depends on a few key communication concepts and structure. This rings true especially in software engineering, where you will run into unexpected runtime issues. It's confusing enough with the complex systems, code and troubleshooting steps, so it's very important to communicate your question effectively. A well-structured question can save time, elicit the proper response, and lead to a real understanding or knowledge of what went wrong. While rushing a question and not thinking through what it is you're trying to convey can end in frustration and possibly even additional confusion. The difference between these two is what Eric Raymond describes as asking the "smart way" versus the "not smart way". Taking the time to analyze some real-world examples of each can change the way you ask questions and make it feel almost instinctual, increasing productivity and progress in the future.
