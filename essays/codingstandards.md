@@ -4,7 +4,7 @@ type: essay
 title: "Set the Standard"
 # All dates must be YYYY-MM-DD format!
 date: 2025-09-25
-published: false
+published: true
 labels:
   - Education
   - Python
