@@ -137,24 +137,11 @@ a {
   margin-bottom: 20px !important;
 }
 
-/* --- Banyans Essay Header Only --- */
-.essay-header-img--banyans {
+/* override only this image */
+.essay-header-img.banyans-banner{
+  max-height: none;
+  height: auto;
+  object-fit: contain; /* or keep cover and control height with clamp */
   width: 100%;
-  height: 80vh;                  /* fills most of the screen height */
-  object-fit: cover;             /* fills the container (no white space) */
-  object-position: 50% 40%;      /* crop slightly toward the top for better focus */
-  display: block;
-  margin: 0;
-  border-radius: 0;
-  transform: scale(1.08);        /* zoom in slightly for a tighter look */
-  transform-origin: center;
 }
-
-/* Optional: fine-tune for mobile so it still looks balanced */
-@media (max-width: 768px) {
-  .essay-header-img--banyans {
-    height: 65vh;
-    object-position: 50% 35%;
-    transform: scale(1.12);
-  }
 }
