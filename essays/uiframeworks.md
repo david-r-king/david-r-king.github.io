@@ -12,7 +12,7 @@ labels:
 ---
 
 <div class="essay-page">
-  <img src="../img/essays/banyans-header.jpg" class="essay-header-img" alt="Banyans Kailua Project Screenshot">
+  <img src="../img/essays/banyans-header.png" class="essay-header-img" alt="Banyans Kailua Project Screenshot">
 </div>
 
 <div class="text-center">
