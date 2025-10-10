@@ -12,7 +12,7 @@ labels:
 ---
 
 <div class="essay-page">
-  <img src="../img/essays/banyans-header.jpg" class="essay-header-img essay-header-img--banyans" alt="Banyans Kailua Project Screenshot"></div>
+  <img src="../img/essays/banyans-header.png" class="essay-header-img essay-header-img--banyans" alt="Banyans Kailua Project Screenshot"></div>
 
 <div class="text-center">
   <h2> - Understanding Bootstrap 5 Through Real Experience - </h2>
