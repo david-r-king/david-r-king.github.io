@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Reflecting on UI Frameworks: My Experience with Bootstrap 5"
+title: "Bootstrap or Bust"
 date: 2025-10-09
 published: true
 labels:
@@ -12,7 +12,7 @@ labels:
 ---
 
 <div class="text-center">
-  <h2> - Understanding Bootstrap 5 Through Real Experience - </h2>
+  <h2> Understanding Bootstrap 5 Through Real Experience </h2>
 </div>
 
 <p>
