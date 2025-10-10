@@ -137,12 +137,24 @@ a {
   margin-bottom: 20px !important;
 }
 
-/* === Banyans Essay Image (custom styling only for that page) === */
+/* --- Banyans Essay Header Only --- */
 .essay-header-img--banyans {
   width: 100%;
-  height: 70vh;                /* fills the screen height a bit more */
-  object-fit: cover;           /* keeps it looking like a banner */
-  object-position: center 35%; /* adjust which part of the image is visible */
+  height: 80vh;                  /* fills most of the screen height */
+  object-fit: cover;             /* fills the container (no white space) */
+  object-position: 50% 40%;      /* crop slightly toward the top for better focus */
   display: block;
-  margin: 0 auto;
+  margin: 0;
+  border-radius: 0;
+  transform: scale(1.08);        /* zoom in slightly for a tighter look */
+  transform-origin: center;
+}
+
+/* Optional: fine-tune for mobile so it still looks balanced */
+@media (max-width: 768px) {
+  .essay-header-img--banyans {
+    height: 65vh;
+    object-position: 50% 35%;
+    transform: scale(1.12);
+  }
 }
