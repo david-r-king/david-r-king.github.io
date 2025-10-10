@@ -30,10 +30,9 @@ When I first started working with Bootstrap 5, I’ll admit it was a little over
 <p>
 A good example of this in action is a project I built called <strong>Banyans Kailua</strong>, which was inspired by a local restaurant’s homepage. I used Bootstrap 5 to create a clean and responsive layout that worked across all devices. The top section features a collapsible navigation bar that becomes a hamburger menu on smaller screens. The center hero section includes a full-width background image with overlay text, created using Bootstrap’s utility classes for alignment and spacing. The bottom footer displays three columns of information — location, business hours, and a simple sign-up form — that automatically stack on mobile. Bootstrap handled most of the structure for me, while I focused on refining the color palette, spacing, and images to match the brand’s look. What would have required hundreds of lines of CSS on my own only took a fraction of the time using Bootstrap.
 
- 
-  <img src="../img/essays/banyans-header.png" class="essay-header-img essay-header-img--banyans" alt="Banyans Kailua Project Screenshot">
-</p>
-
+<img src="../img/essays/wod-banyans-background.png"
+     class="essay-header-img banyans-banner"
+     alt="Banyans hero">
 <hr>
 
 <p>
