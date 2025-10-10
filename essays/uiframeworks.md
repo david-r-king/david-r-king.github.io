@@ -33,7 +33,7 @@ A good example of this in action is a project I built called <strong>Banyans Kai
 <div class="essay-page">
 <img src="../img/essays/banyans-header.png"
      class="essay-header-img banyans-banner"
-     alt="Banyans hero"></div>div>
+     alt="Banyans hero"></div>
 <hr>
 
 <p>
