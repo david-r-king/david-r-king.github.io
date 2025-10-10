@@ -16,7 +16,7 @@ labels:
 </div>
 
 <p>
-Growing up, I was a big fan of Legos. I enjoyed seeing a bunch of little plastic blocks that meant nothing by themselves, but putting them together in a structured way created something complex and unique. This is how I view UI frameworks like <strong>Bootstrap 5</strong>. The reusability and flexibility make creating a website more like putting the blocks together instead of rewriting the same tedious code again and again. The ability to reference built in features like colors, social media, spacing and layouts speeds up the process by quite a bit. So far it's been very user friendly and easy to make small changes or modifications. I fully understand why it's seen as one of the staples of modern website development.
+Growing up, I was a big fan of Legos. I enjoyed seeing a bunch of little plastic blocks that meant nothing by themselves, but putting them together in a structured way created something complex and unique. This is how I view UI frameworks like <strong>Bootstrap 5</strong>. The reusability and flexibility make creating a website more like putting the blocks together instead of rewriting the same tedious code again and again. The ability to reference built in features like colors, social media icons, spacing and layouts speeds up the process by quite a bit. So far it's been very user friendly and easy to make small changes or modifications. I fully understand why it's seen as one of the staples of modern website development.
 </p>
 
 <hr>
