@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "It's About the Journey, Not the Destination"
+title: "Design Patterns"
 # All dates must be YYYY-MM-DD format!
 date: 2025-09-06
 published: true
