@@ -1,9 +1,9 @@
 ---
 layout: essay
 type: essay
-title: "Design Patterns"
+title: "Pattern Recognition"
 # All dates must be YYYY-MM-DD format!
-date: 2025-09-06
+date: 2025-12-04
 published: true
 labels:
   - Next.js
@@ -17,7 +17,6 @@ labels:
 </div>
 
 I think most people recognize the front-end of software development like buttons, color schemes, and the overall layout or functionality. Since it’s what we physically see with our eyes, it’s probably the aspect that gets the most attention. However, the real structure of an application that holds everything together is made of design patterns—reusable architectural solutions that keep complex systems from collapsing into chaos. They’re basically the “invisible structure” the entire program is built on.
----
 
 <div class="text-center">
   <h4> Putting It All Together </h4>
@@ -29,7 +28,6 @@ Another pattern I’ve noticed, also due to Next.js’s genius, is the way it se
 
 The last design pattern I’ve noticed so far is the reusable UI pieces like our standings table, navbar, and event detail cards. These showcase a component-based pattern, which is building an application or website using small blocks of code independent of one another. Once we have a block of code for a certain function or visual, we are able to apply that same block to multiple pages. This helped us a great deal in maintaining the same aesthetics and color scheme to every page.
 
----
 
 <div class="text-center">
   <h4> Conclusion </h4>
