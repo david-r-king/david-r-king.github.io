@@ -1,13 +1,14 @@
 
 ---
 layout: essay
-title: "Design Patterns"
-date: 2025-12-04
+type: essay
+title: "It's About the Journey, Not the Destination"
+# All dates must be YYYY-MM-DD format!
+date: 2025-09-06
 published: true
 labels:
-  - Education
-  - Software Design
-  - Planning
+  - Next.js
+  - React
   - Patterns
   - Architecture
 ---
