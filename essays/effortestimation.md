@@ -1,45 +1,54 @@
 ---
 layout: essay
 type: essay
-title: "Set the Standard"
+title: "Best Guess"
 # All dates must be YYYY-MM-DD format!
-date: 2025-09-25
+date: 2025-12-13
 published: true
 labels:
-  - Education
-  - Python
-  - Typescript
+  - Project Management
+  - Time Management
   - Java
   - Javascript
----
-
-
-<div class="essay-page">
-  <img src="../img/essays/codingStandards.webp" class="essay-header-img" alt="coding">
-</div>
-
-<div class="text-center">
-  <h2> Coding Standards </h2>
-</div>
-
-My idea of coding standards has been mostly details like camel-case, naming convention and indentation. I knew that formatting and readability was important, but I was never entirely sure how to make my code more reader-friendly. I thought as long as it works, it's mostly acceptable. In my job at the Convention Center, my work regularly requires me to refer to documentation and topologies written or created by someone else. Having documentation or files that are easier to read, or even just easier to look at, can make a world of difference. Once we started using ESLint, I noticed a few very simple things that I had been overlooking, or ignoring entirely, that make the code easier to read and more uniform across different files.
-
+  - Typescript
 ---
 
 <div class="text-center">
-  <h4> ESLint </h4>
+  <h2> How I Estimated </h2>
 </div>
 
-Being brand new to ESLint, I wasn't sure what to expect and on my first run, I must have had 200 errors on 50 lines of code. Initially this was frustrating and a little confusing, but once I corrected all the errors I noticed that not only did the error markers disappear, the code itself looked better. Details like extra spaces, unused variables, missing semicolons and blocks of code with no space in between all sound trivial, but it really did make the code seem more organized and easier to read. Once I noticed some of the things it was correcting, I started trying to anticipate the same errors and suddenly, my code looked cleaner. A small example of this would be required spacing between functions, which just adds room and makes it easier to see where one function ends and the next begins. Building files out this way helps me understand the logic, as the logic is the only aspect I have to work to understand.
+I started off the semester very strong with a detailed spreadsheet reflecting each assignments estimated completion time, a breakdown of any unexpected roadblocks, best guess as to why I estimated accuratley or inacurratley, and how I could improve my estimations in the future. While this process added time to each project, it was not too much or unreasonable until the demand for other areas in my life picked up. Even though my intentional effort estimations were short lived, it did help me to internally guage how long some actions take. I think estimating completion time for any action is massivley beneficial and helps to map out the near future, even if it's not a perfect science. 
+---
 
-Using ESLint has helped me slow down some and pay attention to how it looks as I'm writing. It has almost forced me to pay attention to practices I hadn't thought about before, or ignored with the intent of fixing it later. Instead of writing code that "runs", I was writing cleaner and more professional programs. I would guess that in the industry where everyone can write a program that runs, style and formatting are a big deal. Especially for large teams, where cross checking and integration play a big role. I think this forced but natural shift in mindset, of writing clean and efficient code, is something that will help in learning more when it comes to software development.
+<div class="text-center">
+  <h4> Did Effort Estimation Provide Benefits </h4>
+</div>
 
-Going off of the large team idea I referenced earlier, I know how important having a cohesive team is when trying to get a job done. When multiple people are contributing to a single project, or different teams have to integrate separate files into one program, inconsistent code styles can very quickly become a distraction. I'm not the best programmer as of now, but I think of it as similar to writing a paper in English. If I write a paper with no paragraph separation or indentation, start sentences with lowercase words and ignore proper punctuation, whoever reads it will be very upset and probably walk away with nothing learned. The same idea applies to writing code, so learning these common practices will make me a stronger individual programmer as well as a more effective teammate in the future.
+I was off of my estimates quite a bit, with my limited knowledge at the beginning of the semester there were some assignments I had no idea how to guage. Over some time, forward thinking about what the assignment entails and previous work history, I did get more accurate. I think it's a suitable skill to have in any profession, as there is always a deadline that needs to be met and time management that goes into anyones day.
 
 ---
 
 <div class="text-center">
-  <h4> Conclusion </h4>
+  <h4> Was Tracking Useful </h4>
 </div>
 
-At the end of the day, ESLint has shown me that good code requires more than just running. It has helped me understand why it’s so important to put effort into readability, consistency, and professionalism. Time stops for no one, and if we can save some simply by practicing these standards, the benefits will compound for everyone in the long run. Since I’m still in a learning phase, I think now is the perfect time to make these standards second nature.
+It was useful in a sense of thinking through what needs to be done. I found it incredibley difficult to accuratley think through everything that I will need to do for the project, but without the effort estimation I would have likely started every assignment with a "cold" brain. Forcing us to take a best guess at how long it will take requires some forethought that I probably wouldn't have done otherwise. This translated well in conceptual understanding of some of the technology we were using.
+
+<div class="text-center">
+  <h4> How I Tracked My Estimations </h4>
+</div>
+
+I used a pretty simple numbers spreadsheet with columns for each of the subcategories of estimation (estimated time, actual time, errors/bugs, use of AI, why I might have been off). 
+
+<div class="text-center">
+  <h4> Reflections </h4>
+</div>
+
+I think I had a pretty good system for the first few weeks. The only thing I would change is obviously continuing to do it and spending some time after thinking about where I could have done better in the assignment itself. Most of the time, once the assignment was finished and my spreadsheet was filled out, I put it away.
+
+
+
+
+
+
+
