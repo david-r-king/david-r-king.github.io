@@ -25,8 +25,6 @@ I started off the semester very strong with a detailed spreadsheet reflecting ea
 
 I was off of my estimates quite a bit, with my limited knowledge at the beginning of the semester there were some assignments I had no idea how to guage. Over some time, forward thinking about what the assignment entails and previous work history, I did get more accurate. I think it's a suitable skill to have in any profession, as there is always a deadline that needs to be met and time management that goes into anyones day.
 
----
-
 <div class="text-center">
   <h4> Was Tracking Useful </h4>
 </div>
@@ -45,7 +43,7 @@ I used a pretty simple numbers spreadsheet with columns for each of the subcateg
 
 I think I had a pretty good system for the first few weeks. The only thing I would change is obviously continuing to do it and spending some time after thinking about where I could have done better in the assignment itself. Most of the time, once the assignment was finished and my spreadsheet was filled out, I put it away.
 
-
+---
 
 
 
