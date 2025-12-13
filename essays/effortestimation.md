@@ -17,7 +17,7 @@ labels:
   <h2> How I Estimated </h2>
 </div>
 
-I started off the semester very strong with a detailed spreadsheet reflecting each assignments estimated completion time, a breakdown of any unexpected roadblocks, best guess as to why I estimated accuratley or inacurratley, and how I could improve my estimations in the future. While this process added time to each project, it was not too much or unreasonable until the demand for other areas in my life picked up. Even though my intentional effort estimations were short lived, it did help me to internally guage how long some actions take. I think estimating completion time for any action is massivley beneficial and helps to map out the near future, even if it's not a perfect science. 
+I started off the semester very strong with a detailed spreadsheet reflecting each assignment's estimated completion time, a breakdown of any unexpected roadblocks, best guess as to why I estimated accuratley or inacurratley, and how I could improve my estimations in the future. While this process added time to each project, it was not too much or unreasonable until the demand for other areas in my life picked up. Even though my intentional effort estimations were short lived, it did help me to internally guage how long some actions take. I think estimating completion time for any action is massivley beneficial and helps to map out the near future, even if it's not a perfect science. 
 
 <div class="text-center">
   <h4> Did Effort Estimation Provide Benefits </h4>
