@@ -14,7 +14,7 @@ labels:
   - TypeScript
 ---
 
-<div class="text-left">
+<div class="text-center">
   <h2> AI In Programming </h2>
 </div>
 
