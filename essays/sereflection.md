@@ -13,7 +13,7 @@ labels:
 ---
 
 <div class="essay-page">
-  <img src="../img/essays/codingStandards.webp" class="essay-header-img" alt="coding">
+  <img src="../img/essays/SoftwareEngineering.jpg" class="essay-header-img" alt="coding">
 </div>
 
 ---
