@@ -12,8 +12,12 @@ labels:
   - App Development
 ---
 
-<div class="essay-page">
-  <img src="../img/essays/SoftwareEngineering.jpg" class="essay-header-img" alt="coding">
+<div class="essay-page se-reflection">
+  <img
+    src="../img/essays/SoftwareEngineering.jpg"
+    class="essay-header-img"
+    alt="coding"
+  >
 </div>
 
 ---
