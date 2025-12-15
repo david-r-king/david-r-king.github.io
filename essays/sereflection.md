@@ -26,9 +26,7 @@ labels:
   <h2> Reflecting on Software Engineering </h2>
 </div>
 
-This class introduced us to more detail of the process that comes with software engineering. Up to this point, the extent of our coding experience has been writing a program in an IDE to meet a submission date. 
-
-Throughout this course, I learned that software engineering is much broader than simply writing code or building web applications. While the technology stack we used focused on web development, the deeper lessons were about how complex software systems are designed, managed, and maintained over time. In particular, this course helped me understand the importance of Agile Project Management, Configuration Management, and Design Patterns, and how these concepts apply far beyond web development.
+This class introduced us to more detail of the process that comes with software engineering. Up to this point, the extent of our coding experience has been writing a program in an IDE to meet a submission date. This was the first class I have taken involving multiple pieces of technology, group projects, and common mothedologies. This exposure helped me learn how much more effort goes into large applications, far beyond writing the correct code to meet an objective. Specifically, this course helped me understand the importance of Agile Project Management, Configuration Management, and Design Patterns.
 
 <div class="text-center">
   <h2> Agile Project Management and Issue-Driven Development </h2>
