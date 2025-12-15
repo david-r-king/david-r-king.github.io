@@ -14,7 +14,7 @@ labels:
 
 <div class="essay-page se-reflection">
   <img
-    src="../img/essays/SoftwareEngineering.jpg"
+    src="../img/essays/SoftwareEngineering.png"
     class="essay-header-img"
     alt="coding"
   >
