@@ -144,4 +144,13 @@ a {
   object-fit: contain; /* or keep cover and control height with clamp */
   width: 100%;
 }
+
+
+.se-reflection .essay-header-img {
+  width: 100%;
+  height: auto;
+  max-width: 900px;
+  display: block;
+  margin: 0 auto;
+}
 }
