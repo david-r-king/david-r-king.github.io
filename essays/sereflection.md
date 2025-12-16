@@ -63,4 +63,4 @@ While I only had a taste of design patterns, I'm sure there are many more that a
   <h4> Conclusion </h4>
 </div>
 
-While we did plenty of coding in this class, it was a great opportunity to learn more about the other parts of software engineering. Pulling back the hood to see how software and web applications are actually built gives me more confidence than I had when I started the course. The hands-on experience with the group project was also a really good teacher. It helped me naturally make connections to what we had learned about in class and highlighted the importance of everything not related to physically coding.
+While we did plenty of coding in this class, it was a great opportunity to learn more about the other parts of software engineering. Pulling back the hood to see how software and web applications are actually built gives me more confidence than I had when I started the course. The hands-on experience with the group project was also a really good teacher. It helped me naturally connect what we had learned in class to real development work and the importance of everything beyond just writing code.
