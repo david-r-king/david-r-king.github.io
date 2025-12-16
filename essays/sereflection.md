@@ -11,7 +11,6 @@ labels:
   - Functional Programming
   - App Development
 ---
-
 <div class="essay-page se-reflection">
   <img
     src="../img/essays/SoftwareEngineering.png"
@@ -19,7 +18,6 @@ labels:
     alt="coding"
   >
 </div>
-
 ---
 
 <div class="text-center">
@@ -34,19 +32,19 @@ This class introduced us to more detail of the process that comes with software 
 
 Project management is a common term I think most people can assume correctly. One particular type of project management we focused on in this course was Agile Project Management. This approach is useful in organizing and managing software projects by attempting to break large problems or work that needs to be done into small, incremental tasks that can be completed and implemented quickly. This format emphasizes flexibility, collaboration and continuous improvement.
 
-Issue-Driven Project Management is what we used during our capstone group project. This consisted of clearly identifying a goal we had in mind, then breaking that into smaller, more digestible, goals and tracking them in a shared repository. These issues could represent a specific task, bug, feature or improvement. In doing this, everyone on the team had an overview of what still needs to be done and what others are currently working on. Our developers were able to select an issue to work on, create a branch off of our main repo, then submit and review changes through pull requests.
+Issue-Driven Project Management is what we used during our capstone group project. This consisted of clearly identifying a goal we had in mind, then breaking that into smaller, more digestable, goals and tracking them in a shared repository. These issues could represent a specific task, bug, feature or improvement. In doing this, everyone on the team had an overview of what still needs to be done and what others are currently working on. Our developers were able to select an issue to work on, create a branch off of our main repo, then submit and review changes through pull requests.
 
-With this being the first group project I have been a part of, it easy to notice the benefits of this type of working environment. There was almost always very clear understanding in what the team as a whole needed to do and simple steps to take for continuous improvement. This mitigated the possibility of any one member of the team being confused, overwhelmed, or unsure in how to move forward. While we only had a few weeks of exercise in this space, it's fairly obvious how beneficial this kind of workflow is in the practical world of software engineering and development.
+With this being the first group project I have been a part of, it easy to notice the benefits of this type of working environment. There was almost always very clear understanding in what the team as a whole needed to do and simple steps to take for continous improvement. This mitigated the possibility of any one member of the team being confused, overwhelmed, or unsure in how to move forward. While we only had a few weeks of exercise in this space, it's fairly obvious how beneficial this kind of workflow is in the practical world of software engineering and development.
 
 <div class="text-center">
   <h2> Configuration Management </h2>
 </div>
 
-Another major concept I learned is Configuration Management, which refers to the process of controlling changes to software over time. This includes tracking versions of code, managing branches, handling dependencies, and ensuring that development, testing, and production environments remain consistent.
+Another massive benefit I learned from this class is configuration management. Put simply, this is the process of controlling changes to software over time. Tracking versions of the code, managing different branches, handling dependencies and ensuring the development, testing and production environments all remain consistent.
 
-Before this class, I underestimated how critical configuration management is. Through real experience, I learned how mismatches between database schemas, environment variables, or dependency versions can break an otherwise working application. For example, we encountered issues where code expected database fields that did not exist locally because migrations had not been applied correctly. Solving these problems required understanding tools like Git, Prisma migrations, and environment configuration files.
+Before this class, I did not have much exposure to the importance of configuration management. I was familiar with basic version control and understood that different parts of a system needed to remain compatible, but this was my first time working with multiple parts that changed often. The project really opened up the experience of encountering unexpected configuration issues and working through how to fix them. While they were usually a simple fix, it showed me that it does take some time and energy as the project progressed, unlike the set and forget I had been used to.
 
-Configuration management is not limited to web development. Any long-term software system—such as operating systems, network infrastructure, or enterprise tools—relies on strict configuration control to prevent failures. This course showed me that writing code is only one part of engineering; maintaining consistency across systems is just as important.
+I think this was one of the most valuable aspects of the final project, and the course as a whole. I had began to get frustrated with the previous coursework, as I was not confident in truly understanding how software was developed. I could write lines of code that printed something to the console, but connecting that to a fully functional website was all blank space in my mind. With this course filling in the gaps, I do feel more educated in software development overall.
 
 <div class="text-center">
   <h2> Design Patterns </h2>
