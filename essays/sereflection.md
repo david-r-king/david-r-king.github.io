@@ -6,10 +6,11 @@ title: "Software Engineering Reflection"
 date: 2025-12-15
 published: true
 labels:
-  - Ethics in Software Engineering
-  - Issue Driven Project Management
+  - Software Development
+  - Issue-Driven Project Management
   - Functional Programming
-  - App Development
+  - Agile Project Management
+  - Design Patterns
 ---
 <div class="essay-page se-reflection">
   <img
@@ -40,7 +41,7 @@ With this being the first group project I have been a part of, it easy to notice
   <h2> Configuration Management </h2>
 </div>
 
-Another massive benefit I learned from this class is configuration management. Put simply, this is the process of controlling changes to software over time. Tracking versions of the code, managing different branches, handling dependencies and ensuring the development, testing and production environments all remain consistent.
+Another massive benefit I took from this class is configuration management. Put simply, this is the process of controlling changes to software over time. Tracking versions of the code, managing different branches, handling dependencies and ensuring the development, testing and production environments all remain consistent.
 
 Before this class, I did not have much exposure to the importance of configuration management. I was familiar with basic version control and understood that different parts of a system needed to remain compatible, but this was my first time working with multiple parts that changed often. The project really opened up the experience of encountering unexpected configuration issues and working through how to fix them. While they were usually a simple fix, it showed me that it does take some time and energy as the project progressed, unlike the set and forget I had been used to.
 
@@ -50,19 +51,11 @@ I think this was one of the most valuable aspects of the final project, and the 
   <h2> Design Patterns </h2>
 </div>
 
-Design patterns are reusable solutions to common problems in software design. Rather than focusing on specific syntax or frameworks, design patterns describe proven ways to structure code so it is easier to understand, extend, and maintain.
+Another topic we covered in this course was design patterns. Intuitivley, I had assumed a design pattern was just a structured way to write a program for readabilities sake. Which is correct, but a very surface level definition. From what I understand, design patterns are a reusable stack of solutions to common problems that show up in software development that make code easier to read, expand, and maintain.
 
-During this course, I saw design patterns emerge naturally in our project. For example, separating server logic from client components, using shared utility functions, and centralizing data access through service files are all examples of design patterns. These patterns reduce duplication and make the codebase easier to modify without breaking unrelated parts of the system.
+The most obvious design pattern I noticed during our project would be the separation of server/client component files. Having two files that work together to provide one feature, but are separated based on what they are providing helps keep the program organized and mitigates developer errors. With this implemented, developers are not required to mentally separate database code from UI code in the same file. 
 
-Design patterns apply to all areas of software engineering. Whether building a mobile app, a game engine, or a cloud service, engineers rely on patterns to manage complexity. Learning to recognize and apply these patterns helped me think more like an engineer rather than just a programmer.
-
-<div class="text-center">
-  <h2> Ethics in Software Engineering </h2>
-</div>
-
-Finally, this course reinforced the ethical responsibilities of software engineers. Ethics in software engineering involves considering how software affects users, organizations, and society. This includes protecting user data, avoiding deceptive design, ensuring accessibility, and being honest about system limitations.
-
-Working on a real project made these concerns feel concrete. Decisions about authentication, permissions, and data visibility are not just technical choices—they impact privacy and trust. Even small mistakes can lead to security vulnerabilities or user harm. This awareness will influence how I approach future projects, especially those involving sensitive information.
+While I only had a taste of design patterns, I'm sure there are many more that apply to every aspect of software engineering. Now that I have a frame of reference, I will have an idea of what to look for in the future to build upon my knowledge.
 
 ---
 
@@ -70,4 +63,4 @@ Working on a real project made these concerns feel concrete. Decisions about aut
   <h4> Conclusion </h4>
 </div>
 
-Overall, this course taught me that software engineering is about much more than building web applications. Concepts like Agile Project Management, Configuration Management, and Design Patterns apply across all types of software systems. Through hands-on experience, I learned how engineering decisions affect not only functionality, but also reliability, collaboration, and ethics. These lessons will carry forward into any technical project I work on in the future, regardless of platform or programming language.
+While we did plenty of coding in this class, it was a great opportunity to learn more about the other parts of software engineering. Pulling back the hood to see how software and web applications are actually built gives me more confidence than I had when I started the course. The hands-on experience with the group project was also a really good teacher. It helped me naturally make connections to what we had learned about in class and highlighted the importance of everything not related to physically coding.
